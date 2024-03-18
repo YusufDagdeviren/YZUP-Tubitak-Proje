@@ -1,0 +1,261 @@
+,Symbol,Company Name,Market Cap,% Change,Volume,Revenue
+0,GOOGL,Alphabet Inc.,"1,728.20B",1.29%,14513157,307.39B
+1,META,"Meta Platforms, Inc.","1,274.07B",-0.45%,7865758,134.90B
+2,NFLX,"Netflix, Inc.",264.45B,0.03%,1173969,33.72B
+3,DIS,The Walt Disney Company,206.29B,0.49%,4505684,88.94B
+4,TMUS,"T-Mobile US, Inc.",194.27B,0.11%,1559668,78.56B
+5,CMCSA,Comcast Corporation,171.52B,0.68%,6612794,121.57B
+6,VZ,Verizon Communications Inc.,168.72B,0.02%,6787114,133.97B
+7,T,AT&T Inc.,123.03B,-0.20%,15322978,122.43B
+8,RELX,RELX PLC,82.70B,0.09%,415754,11.60B
+9,NTES,"NetEase, Inc.",70.01B,2.67%,794245,14.59B
+10,AMX,"América Móvil, SAB de CV",59.43B,1.68%,679583,36.68B
+11,DASH,"DoorDash, Inc.",52.54B,1.95%,1474321,8.64B
+12,SPOT,Spotify Technology S.A.,51.19B,-0.10%,591241,14.72B
+13,CHTR,"Charter Communications, Inc.",42.80B,1.46%,469143,54.61B
+14,BIDU,"Baidu, Inc.",36.80B,3.56%,3692339,18.98B
+15,EA,Electronic Arts Inc.,36.36B,1.45%,793047,7.66B
+16,BCE,BCE Inc.,33.04B,-1.11%,1449812,18.55B
+17,ORAN,Orange S.A.,30.38B,-0.17%,681665,46.25B
+18,CHT,"Chunghwa Telecom Co., Ltd.",30.04B,-0.47%,27331,7.26B
+19,RBLX,Roblox Corporation,25.78B,-0.55%,3385228,2.80B
+20,TU,TELUS Corporation,25.28B,-1.52%,1369506,15.12B
+21,TTWO,"Take-Two Interactive Software, Inc.",24.82B,0.56%,605375,5.40B
+22,TLK,Telkom Indonesia (Persero) Tbk PT,24.69B,0.32%,46423,9.48B
+23,VOD,Vodafone Group PLC,24.42B,-4.68%,10021532,47.57B
+24,PINS,"Pinterest, Inc.",23.68B,-0.76%,3485024,3.06B
+25,LYV,"Live Nation Entertainment, Inc.",23.52B,1.94%,1351043,22.75B
+26,RCI,Rogers Communications Inc.,23.05B,-0.92%,357227,14.52B
+27,WBD,"Warner Bros. Discovery, Inc.",21.62B,0.40%,10288437,41.32B
+28,SNAP,Snap Inc.,19.49B,1.61%,21976704,4.61B
+29,OMC,Omnicom Group Inc.,18.78B,1.18%,745229,14.69B
+30,TME,Tencent Music Entertainment Group,18.45B,0.94%,5151629,3.89B
+31,WMG,Warner Music Group Corp.,17.58B,-2.30%,488842,6.30B
+32,VIV,Telefônica Brasil S.A.,17.55B,-0.29%,392066,10.70B
+33,FWONK,Formula One Group - Series C,16.42B,-1.16%,846173,-
+34,FWONA,Formula One Group - Series A,16.41B,-1.02%,62803,12.53B
+35,SIRI,Sirius XM Holdings Inc.,15.79B,1.34%,14077121,8.95B
+36,NWSA,News Corporation,15.15B,0.30%,1284735,9.97B
+37,FOXA,Fox Corporation,13.37B,0.85%,1901451,14.56B
+38,Z,"Zillow Group, Inc.",13.10B,0.18%,1477596,1.95B
+39,IPG,"The Interpublic Group of Companies, Inc.",12.33B,2.03%,1921722,10.89B
+40,TWLO,Twilio Inc.,11.36B,0.23%,1556260,4.15B
+41,LSXMK,Liberty SiriusXM Group - Series C,9.88B,0.80%,1252219,-
+42,LSXMA,Liberty SiriusXM Group - Series A,9.87B,0.60%,996017,-
+43,WPP,WPP plc,9.87B,-0.61%,58868,18.79B
+44,LSXMB,Liberty SiriusXM Group - Series B,9.86B,2.36%,1196,-
+45,TIMB,TIM S.A.,9.39B,0.57%,113854,4.07B
+46,ROKU,"Roku, Inc.",9.20B,0.72%,2394085,3.48B
+47,MTCH,"Match Group, Inc.",8.99B,-0.33%,3601802,3.36B
+48,PSO,Pearson plc,8.98B,0.46%,375827,4.65B
+49,SKM,"SK Telecom Co.,Ltd",8.53B,0.79%,141105,9.72B
+50,LBRDK,Liberty Broadband Corporation,8.32B,1.25%,380971,981.00M
+51,PARA,Paramount Global,7.97B,0.65%,5727410,29.65B
+52,EDR,"Endeavor Group Holdings, Inc.",7.43B,0.34%,911057,5.96B
+53,KT,KT Corporation,7.19B,0.21%,305058,20.80B
+54,NYT,The New York Times Company,7.19B,1.03%,548306,2.43B
+55,TKO,"TKO Group Holdings, Inc.",7.10B,-0.10%,574354,1.67B
+56,LBTYK,Liberty Global plc,6.76B,-0.71%,844022,7.49B
+57,FYBR,"Frontier Communications Parent, Inc.",6.04B,0.12%,399921,5.74B
+58,NXST,"Nexstar Media Group, Inc.",5.53B,2.43%,216471,4.93B
+59,PHI,PLDT Inc.,5.51B,0.17%,246577,3.68B
+60,BILI,Bilibili Inc.,5.46B,-1.26%,6316567,3.18B
+61,IAC,IAC Inc.,4.50B,-0.30%,221246,4.37B
+62,MSGS,Madison Square Garden Sports Corp.,4.43B,0.23%,33449,879.61M
+63,TKC,Turkcell Iletisim Hizmetleri A.S.,4.25B,-0.72%,127209,3.29B
+64,IQ,"iQIYI, Inc.",4.11B,-1.63%,4059719,4.50B
+65,IRDM,Iridium Communications Inc.,3.48B,1.69%,682172,790.72M
+66,ATHM,Autohome Inc.,3.35B,-,188181,985.69M
+67,LLYVA,Liberty Live Group - Series A,3.30B,0.45%,26400,-
+68,CCOI,"Cogent Communications Holdings, Inc.",3.25B,-1.39%,289058,940.92M
+69,TIGO,Millicom International Cellular S.A.,3.12B,1.76%,32717,5.66B
+70,ZD,"Ziff Davis, Inc.",3.09B,-0.46%,59835,1.36B
+71,USM,United States Cellular Corporation,3.05B,-0.56%,90961,3.91B
+72,TEO,Telecom Argentina S.A.,2.84B,5.94%,86686,4.13B
+73,LLYVK,Liberty Live Group - Series C,2.75B,0.37%,62204,-
+74,GSAT,"Globalstar, Inc.",2.75B,-,1984585,223.81M
+75,IDCC,"InterDigital, Inc.",2.66B,0.47%,131052,549.59M
+76,TGNA,TEGNA Inc.,2.65B,1.00%,775791,2.91B
+77,PLTK,Playtika Holding Corp.,2.62B,1.48%,319449,2.57B
+78,YELP,Yelp Inc.,2.61B,0.29%,292955,1.34B
+79,CABO,"Cable One, Inc.",2.61B,-1.01%,34597,1.68B
+80,PLAY,"Dave & Buster's Entertainment, Inc.",2.51B,0.74%,279945,2.17B
+81,CARG,"CarGurus, Inc.",2.47B,-0.37%,490813,914.24M
+82,MANU,Manchester United plc,2.43B,2.40%,718768,911.68M
+83,CMPR,Cimpress plc,2.43B,0.71%,37275,3.21B
+84,BATRK,Atlanta Braves Holdings Inc,2.42B,-0.04%,32085,640.67M
+85,BATRA,Atlanta Braves Holdings Inc,2.42B,-0.15%,15845,640.67M
+86,WB,Weibo Corporation,2.37B,1.08%,1294136,1.74B
+87,LGF.A,Lions Gate Entertainment Corp.,2.23B,-0.80%,256902,3.98B
+88,CNK,"Cinemark Holdings, Inc.",2.20B,3.75%,1624286,3.07B
+89,WLY,"John Wiley & Sons, Inc.",2.04B,-0.11%,125865,1.93B
+90,GETY,"Getty Images Holdings, Inc.",2.00B,13.51%,1120026,922.08M
+91,BOWL,Bowlero Corp.,1.93B,7.98%,697153,1.09B
+92,YY,JOYY Inc.,1.91B,4.63%,417212,2.30B
+93,CRTO,Criteo S.A.,1.91B,0.63%,120536,1.95B
+94,MSGE,Madison Square Garden Entertainment Corp.,1.82B,-,111493,894.04M
+95,VEON,VEON Ltd.,1.80B,0.59%,18186,1.72B
+96,SSTK,"Shutterstock, Inc.",1.80B,2.77%,238853,874.59M
+97,TDS,"Telephone and Data Systems, Inc.",1.78B,1.65%,264719,5.16B
+98,LUMN,"Lumen Technologies, Inc.",1.74B,-2.03%,5489222,14.56B
+99,SPHR,Sphere Entertainment Co.,1.69B,0.27%,262060,229.80M
+100,TV,"Grupo Televisa, S.A.B.",1.68B,2.27%,1190059,3.88B
+101,MGNI,"Magnite, Inc.",1.62B,1.54%,481411,619.71M
+102,IAS,Integral Ad Science Holding Corp.,1.55B,1.18%,750527,474.37M
+103,STGW,Stagwell Inc.,1.55B,0.69%,289311,2.53B
+104,OPRA,Opera Limited,1.43B,0.73%,1796110,396.83M
+105,MOMO,Hello Group Inc.,1.42B,2.95%,1921443,1.68B
+106,ANGI,Angi Inc.,1.35B,1.87%,450720,1.36B
+107,TBLA,Taboola.com Ltd.,1.33B,-2.22%,3870285,1.44B
+108,MAX,"MediaAlpha, Inc.",1.32B,-0.05%,100241,388.15M
+109,ADV,Advantage Solutions Inc.,1.29B,1.11%,172323,4.22B
+110,LILAK,Liberty Latin America Ltd.,1.28B,4.26%,1288259,4.51B
+111,GENI,Genius Sports Limited,1.23B,2.72%,1128316,412.98M
+112,ATUS,"Altice USA, Inc.",1.22B,5.45%,1180371,9.24B
+113,SEAT,Vivid Seats Inc.,1.21B,2.51%,1104339,712.88M
+114,AMC,"AMC Entertainment Holdings, Inc.",1.14B,0.92%,5674201,4.81B
+115,SCHL,Scholastic Corporation,1.14B,-1.73%,145184,1.64B
+116,GOGO,Gogo Inc.,1.13B,3.73%,1687305,397.58M
+117,HUYA,HUYA Inc.,1.11B,-0.64%,1963752,1.03B
+118,PERI,Perion Network Ltd.,1.07B,0.22%,347535,743.16M
+119,IDT,IDT Corporation,955.89M,-1.89%,27025,1.20B
+120,TTGT,"TechTarget, Inc.",900.65M,-1.20%,27805,229.96M
+121,SHEN,Shenandoah Telecommunications Company,896.35M,0.45%,70737,287.38M
+122,IMAX,IMAX Corporation,890.11M,0.21%,269752,374.84M
+123,FVRR,Fiverr International Ltd.,870.02M,0.71%,296677,361.38M
+124,KIND,"Nextdoor Holdings, Inc.",869.92M,0.90%,584141,218.31M
+125,DLX,Deluxe Corporation,845.35M,0.42%,50851,2.19B
+126,QNST,"QuinStreet, Inc.",838.18M,1.57%,82463,549.59M
+127,IHS,IHS Holding Limited,837.95M,7.74%,533558,2.13B
+128,CCO,"Clear Channel Outdoor Holdings, Inc.",832.00M,1.45%,468113,2.13B
+129,SBGI,"Sinclair Broadcast Group, Inc.",830.64M,1.91%,166985,3.13B
+130,ASTS,"AST SpaceMobile, Inc.",793.17M,6.71%,3730687,-
+131,THRY,"Thryv Holdings, Inc.",781.56M,-0.45%,33831,916.96M
+132,DDI,"DoubleDown Interactive Co., Ltd.",727.94M,-1.29%,17862,308.86M
+133,GRPN,"Groupon, Inc.",723.38M,-2.05%,795725,525.35M
+134,SMWB,Similarweb Ltd.,708.48M,1.44%,246674,218.02M
+135,ATEX,Anterix Inc.,653.38M,-1.46%,27583,3.54M
+136,EVER,"EverQuote, Inc.",626.40M,6.26%,734786,287.92M
+137,NN,NextNav Inc.,577.22M,5.25%,1198172,3.46M
+138,GTN,"Gray Television, Inc.",576.19M,1.61%,904303,3.28B
+139,AMCX,AMC Networks Inc.,548.44M,3.77%,361382,2.71B
+140,GRVY,"Gravity Co., Ltd.",506.16M,-0.68%,15629,558.92M
+141,FUBO,fuboTV Inc.,503.14M,6.49%,8997261,1.37B
+142,BOC,Boston Omaha Corporation,502.76M,-0.50%,45740,94.18M
+143,ATNI,"ATN International, Inc.",501.97M,-1.01%,23306,755.27M
+144,CNSL,"Consolidated Communications Holdings, Inc.",496.49M,-,96941,1.11B
+145,RBBN,Ribbon Communications Inc.,494.10M,-,244459,826.34M
+146,RSVR,"Reservoir Media, Inc.",476.44M,1.36%,22262,140.52M
+147,ZH,Zhihu Inc.,469.73M,-2.67%,697833,574.22M
+148,MCS,The Marcus Corporation,451.09M,0.88%,124343,729.58M
+149,GDEV,GDEV Inc.,446.20M,0.44%,176,-
+150,CCG,Cheche Group Inc,421.86M,6.81%,15960,-
+151,NCMI,"National CineMedia, Inc.",374.56M,4.65%,49928,166.10M
+152,EEX,"Emerald Holding, Inc.",373.77M,-0.17%,1364,382.80M
+153,SSP,The E.W. Scripps Company,354.53M,3.35%,205049,2.29B
+154,SOHU,Sohu.com Limited,348.51M,-0.19%,43054,600.67M
+155,JFIN,Jiayin Group Inc.,342.51M,8.48%,211298,676.85M
+156,CDLX,"Cardlytics, Inc.",339.55M,1.10%,268949,302.54M
+157,NEXN,Nexxen International Ltd.,338.49M,-3.42%,53252,331.99M
+158,TRUE,"TrueCar, Inc.",334.59M,1.63%,58186,158.71M
+159,DRCT,"Direct Digital Holdings, Inc.",326.93M,18.90%,215278,146.84M
+160,GCI,"Gannett Co., Inc.",308.19M,0.48%,104156,2.66B
+161,MYPS,"PLAYSTUDIOS, Inc.",296.85M,-6.87%,193392,310.89M
+162,WOW,"WideOpenWest, Inc.",289.79M,-9.83%,3335469,698.40M
+163,IHRT,"iHeartMedia, Inc.",270.25M,-0.68%,204775,3.75B
+164,CTV,Innovid Corp.,268.05M,1.59%,80239,139.88M
+165,DOYU,DouYu International Holdings Limited,254.61M,-0.09%,459209,813.69M
+166,ADTH,"AdTheorent Holding Company, Inc.",253.25M,17.07%,727326,170.81M
+167,SIFY,Sify Technologies Limited,242.26M,-1.48%,32730,421.93M
+168,HAO,Haoxi Health Technology Limited,239.10M,4.17%,26252,28.23M
+169,OOMA,"Ooma, Inc.",229.10M,-1.88%,36459,231.56M
+170,OB,Outbrain Inc.,195.24M,-4.52%,107196,935.82M
+171,TRVG,trivago N.V.,177.33M,-,34244,538.92M
+172,TSQ,"Townsquare Media, Inc.",173.95M,-1.48%,23139,459.72M
+173,RDCM,RADCOM Ltd.,169.27M,-0.80%,57857,51.60M
+174,LVO,"LiveOne, Inc.",163.86M,3.50%,181289,113.09M
+175,EVC,Entravision Communications Corporation,150.12M,2.04%,761760,1.08B
+176,SKLZ,Skillz Inc.,147.56M,4.35%,82056,163.66M
+177,CXDO,"Crexendo, Inc.",145.09M,-5.98%,246160,53.20M
+178,SGA,"Saga Communications, Inc.",143.29M,1.50%,4307,113.75M
+179,TZOO,Travelzoo,135.25M,5.63%,246364,81.94M
+180,FNGR,"FingerMotion, Inc.",120.85M,-1.30%,133014,40.40M
+181,BRAG,Bragg Gaming Group Inc.,117.30M,0.78%,5579,99.83M
+182,HRYU,"Hanryu Holdings, Inc.",114.06M,6.02%,27295,1.37M
+183,GMGI,"Golden Matrix Group, Inc.",107.28M,-,3631,44.17M
+184,UONE,"Urban One, Inc.",105.62M,-3.48%,80953,489.39M
+185,XNET,Xunlei Limited,103.95M,1.25%,78529,383.51M
+186,WIMI,WiMi Hologram Cloud Inc.,94.51M,-0.92%,420238,70.82M
+187,KUKE,Kuke Music Holding Limited,79.47M,-8.51%,20162,-
+188,SCOR,"comScore, Inc.",75.51M,1.76%,32481,374.48M
+189,CMCM,Cheetah Mobile Inc.,74.88M,-0.80%,4351,126.84M
+190,GAIA,"Gaia, Inc.",73.83M,0.48%,7836,79.29M
+191,MNY,MoneyHero Limited,68.21M,-0.79%,149680,123.27M
+192,MATH,Metalpha Technology Holding Limited,66.51M,-,2908,5.69M
+193,INUV,"Inuvo, Inc.",65.43M,0.04%,199220,73.91M
+194,KORE,"KORE Group Holdings, Inc.",64.26M,-8.71%,75581,266.66M
+195,BHAT,Blue Hat Interactive Entertainment Technology,63.65M,9.17%,66810,51.69M
+196,RDI,"Reading International, Inc.",63.58M,-,3366,224.63M
+197,LEE,"Lee Enterprises, Incorporated",63.58M,0.77%,22635,661.68M
+198,CMLS,Cumulus Media Inc.,63.53M,-2.89%,70513,844.55M
+199,UCL,uCloudlink Group Inc.,62.13M,4.19%,27331,27.28M
+200,BZFD,"BuzzFeed, Inc.",59.05M,3.69%,1308095,352.98M
+201,MCHX,"Marchex, Inc.",56.31M,1.54%,31333,49.81M
+202,BODI,Beachbody Company Inc,55.60M,-4.44%,6898,527.11M
+203,STCN,"Steel Connect, Inc.",55.21M,-,395,179.07M
+204,HHS,"Harte Hanks, Inc.",54.05M,1.20%,12353,196.78M
+205,ZDGE,"Zedge, Inc.",52.16M,0.55%,48189,27.42M
+206,AREN,"The Arena Group Holdings, Inc.",49.82M,-1.18%,7215,214.52M
+207,TOON,Kartoon Studios Inc.,43.27M,-,50653,54.35M
+208,ABLV,Able View Inc.,42.85M,-2.32%,10832,226.92M
+209,FLNT,"Fluent, Inc.",42.81M,-1.49%,100288,310.30M
+210,SJ,Scienjoy Holding Corporation,42.68M,-0.96%,24338,216.01M
+211,ICLK,iClick Interactive Asia Group Limited,38.42M,2.07%,437,150.76M
+212,PODC,PodcastOne Inc,38.05M,-6.75%,163637,-
+213,LPTV,"Loop Media, Inc.",37.48M,-10.78%,61609,26.99M
+214,SNAL,"Snail, Inc.",36.65M,2.00%,4690,47.64M
+215,AGAE,Allied Gaming & Entertainment Inc.,34.63M,-,26566,6.80M
+216,IZEA,"IZEA Worldwide, Inc.",30.91M,2.50%,100138,36.12M
+217,CURI,CuriosityStream Inc.,29.19M,-1.16%,28161,56.61M
+218,ANGH,Anghami Inc.,27.38M,1.01%,6317,46.25M
+219,NCTY,The9 Limited,26.63M,-3.77%,14106,-
+220,MMV,MultiMetaVerse Holdings Limited,26.37M,3.45%,13219,9.79M
+221,STBX,Starbox Group Holdings Ltd.,26.24M,1.85%,9980,11.74M
+222,BBGI,"Beasley Broadcast Group, Inc.",24.60M,3.53%,1155,247.11M
+223,DLPN,"Dolphin Entertainment, Inc.",24.13M,-2.26%,24810,42.24M
+224,GAME,GameSquare Holdings Inc,23.90M,-6.90%,267321,-
+225,FENG,Phoenix New Media Limited,23.87M,-3.81%,7814,97.61M
+226,HOFV,Hall of Fame Resort & Entertainment Company,22.68M,0.71%,10111,20.52M
+227,DALN,DallasNews Corporation,20.50M,0.78%,11649,139.70M
+228,SOGP,Sound Group Inc,19.50M,-0.54%,17702,307.65M
+229,TRUG,Trugolf Inc,19.20M,2.18%,41614,13.79M
+230,CHR,"Cheer Holding, Inc.",18.00M,-3.79%,1507,154.58M
+231,CNVS,Cineverse Corp.,17.59M,-3.03%,54111,51.82M
+232,BREA,Brera Holdings PLC,16.55M,17.04%,249783,120.79K
+233,ANTE,AirNet Technology Inc.,15.79M,0.79%,12306,918.00K
+234,EDUC,Educational Development Corporation,15.09M,22.54%,239769,57.04M
+235,KRKR,36Kr Holdings Inc.,14.27M,5.12%,4922,45.86M
+236,FAZE,FaZe Holdings Inc.,14.12M,-,411115,58.15M
+237,GIGM,GigaMedia Limited,13.70M,0.81%,7987,4.52M
+238,LKCO,Luokung Technology Corp.,13.14M,-1.33%,27011,36.98M
+239,MDIA,MediaCo Holding Inc.,12.94M,-3.73%,4660,24.95M
+240,UPXI,"Upexi, Inc.",10.45M,15.48%,9542,91.21M
+241,MIMO,Airspan Networks Holdings Inc.,9.85M,-11.36%,566259,112.81M
+242,GXAI,Gaxos.ai Inc.,9.42M,77.26%,41158461,-
+243,GDC,GD Culture Group Limited,9.19M,-5.10%,223329,435.48K
+244,VSME,VS Media Holdings Limited,8.38M,-9.28%,243570,9.03M
+245,LDWY,"Lendway, Inc.",8.29M,1.03%,2808,23.57M
+246,ASST,Asset Entities Inc.,8.08M,1.97%,32719,259.15K
+247,SLE,"Super League Enterprise, Inc.",8.00M,3.28%,9403,22.69M
+248,LCFY,Locafy Limited,7.70M,0.58%,9,-
+249,CNET,ZW Data Action Technologies Inc.,6.63M,5.45%,4405,29.74M
+250,CPOP,"Pop Culture Group Co., Ltd",6.37M,3.45%,126924,18.54M
+251,MSGM,Motorsport Games Inc.,5.99M,-1.35%,6413,8.93M
+252,CSSE,"Chicken Soup for the Soul Entertainment, Inc.",5.64M,-8.86%,571090,368.81M
+253,BAOS,Baosheng Media Group Holdings Limited,5.43M,1.62%,21161,3.46M
+254,MGOL,MGO Global Inc.,5.39M,3.53%,16197,4.47M
+255,ADD,"Color Star Technology Co., Ltd.",5.11M,-0.25%,19434,-
+256,MGAM,Mobile Global Esports Inc.,4.45M,5.00%,177707,-
+257,TC,TuanChe Limited,3.03M,2.49%,16460,25.71M
+258,ONFO,"Onfolio Holdings, Inc.",2.25M,-2.20%,14971,5.10M
+259,GROM,"Grom Social Enterprises, Inc.",2.13M,-8.34%,359171,4.70M

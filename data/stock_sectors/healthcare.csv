@@ -1,0 +1,1219 @@
+,Symbol,Company Name,Market Cap,% Change,Volume,Revenue
+0,LLY,Eli Lilly and Company,717.33B,0.15%,1412555,34.12B
+1,NVO,Novo Nordisk A/S,601.34B,-1.15%,5625648,34.41B
+2,UNH,UnitedHealth Group Incorporated,451.15B,-0.24%,1753690,371.62B
+3,JNJ,Johnson & Johnson,392.00B,-0.72%,3341756,85.16B
+4,ABBV,AbbVie Inc.,319.80B,-0.09%,1826287,54.32B
+5,MRK,"Merck & Co., Inc.",310.65B,-1.28%,4300810,60.12B
+6,TMO,Thermo Fisher Scientific Inc.,227.74B,-0.75%,520637,42.86B
+7,AZN,AstraZeneca PLC,209.94B,0.67%,3047524,45.81B
+8,ABT,Abbott Laboratories,209.54B,-0.51%,1338109,40.11B
+9,NVS,Novartis AG,203.77B,-0.56%,621215,46.66B
+10,DHR,Danaher Corporation,187.00B,0.23%,786762,23.89B
+11,PFE,Pfizer Inc.,157.38B,1.30%,24433532,58.50B
+12,AMGN,Amgen Inc.,148.20B,0.16%,760459,28.19B
+13,ISRG,"Intuitive Surgical, Inc.",138.02B,-1.49%,803105,7.12B
+14,SYK,Stryker Corporation,136.28B,-0.12%,381035,20.50B
+15,SNY,Sanofi,120.81B,-0.34%,515386,51.60B
+16,ELV,Elevance Health Inc.,118.60B,0.65%,408050,171.34B
+17,MDT,Medtronic plc,113.85B,-0.61%,2052427,32.32B
+18,BMY,Bristol-Myers Squibb Company,110.01B,-2.01%,11029769,45.01B
+19,VRTX,Vertex Pharmaceuticals Incorporated,107.06B,0.15%,380655,9.87B
+20,REGN,"Regeneron Pharmaceuticals, Inc.",106.49B,-0.10%,157700,13.12B
+21,CI,Cigna Corporation,100.55B,1.00%,753011,195.27B
+22,BSX,Boston Scientific Corporation,99.01B,-1.30%,3047854,14.24B
+23,CVS,CVS Health Corporation,94.65B,-0.47%,2902994,357.78B
+24,GILD,"Gilead Sciences, Inc.",93.53B,0.93%,2607216,27.12B
+25,GSK,GSK plc,87.59B,0.10%,1096919,38.39B
+26,HCA,"HCA Healthcare, Inc.",85.58B,-0.40%,466663,64.97B
+27,ZTS,Zoetis Inc.,83.03B,-2.31%,2929273,8.54B
+28,MCK,McKesson Corporation,69.81B,-1.20%,330828,301.51B
+29,BDX,"Becton, Dickinson and Company",68.71B,0.57%,449116,19.49B
+30,EW,Edwards Lifesciences Corporation,54.66B,2.41%,3471163,6.00B
+31,DXCM,"DexCom, Inc.",52.19B,-1.61%,1316655,3.62B
+32,IQV,IQVIA Holdings Inc.,47.16B,-0.77%,276135,14.98B
+33,TAK,Takeda Pharmaceutical Company Limited,45.74B,0.24%,725605,29.40B
+34,IDXX,"IDEXX Laboratories, Inc.",45.44B,-0.71%,124253,3.66B
+35,ALC,Alcon Inc.,43.47B,-0.32%,1529943,9.46B
+36,A,"Agilent Technologies, Inc.",43.33B,0.19%,534609,6.74B
+37,MRNA,"Moderna, Inc.",42.19B,-3.35%,2142991,6.85B
+38,GEHC,GE HealthCare Technologies Inc.,41.81B,-3.40%,11407587,19.55B
+39,HUM,Humana Inc.,41.61B,0.23%,615260,106.37B
+40,CNC,Centene Corporation,41.05B,0.22%,1090744,154.00B
+41,HLN,Haleon plc,39.99B,-0.75%,1911067,14.31B
+42,COR,Cencora,38.52B,-1.25%,633954,271.58B
+43,VEEV,Veeva Systems Inc.,37.20B,1.36%,362771,2.36B
+44,BIIB,Biogen Inc.,33.05B,-0.22%,553569,9.84B
+45,RMD,ResMed Inc.,28.50B,-0.43%,404882,4.50B
+46,CAH,"Cardinal Health, Inc.",28.12B,-3.58%,1741208,216.15B
+47,ICLR,ICON PLC,27.91B,-1.53%,299107,8.12B
+48,WST,"West Pharmaceutical Services, Inc.",27.71B,1.29%,288331,2.95B
+49,MTD,Mettler-Toledo International Inc.,27.67B,1.13%,68700,3.79B
+50,ZBH,"Zimmer Biomet Holdings, Inc.",26.29B,-0.95%,338152,7.39B
+51,MOH,"Molina Healthcare, Inc.",23.51B,0.82%,142788,34.07B
+52,ARGX,argenx SE,23.35B,-2.28%,151783,39.48M
+53,ALGN,"Align Technology, Inc.",23.33B,3.91%,441040,3.86B
+54,STE,STERIS plc,23.10B,-0.07%,166625,5.41B
+55,BNTX,BioNTech SE,22.76B,-2.23%,388101,7.04B
+56,BAX,Baxter International Inc.,21.78B,-0.77%,1128295,14.81B
+57,ILMN,"Illumina, Inc.",21.09B,-0.43%,816173,4.50B
+58,WAT,Waters Corporation,20.92B,-0.61%,116172,2.96B
+59,GMAB,Genmab A/S,20.51B,-0.02%,253257,2.44B
+60,COO,"The Cooper Companies, Inc.",20.18B,0.55%,486373,3.67B
+61,BGNE,"BeiGene, Ltd.",19.98B,8.47%,399320,2.46B
+62,PHG,Koninklijke Philips N.V.,19.31B,1.26%,509471,20.19B
+63,ALNY,"Alnylam Pharmaceuticals, Inc.",18.47B,1.57%,353968,1.83B
+64,WBA,"Walgreens Boots Alliance, Inc.",18.34B,-0.42%,4541375,142.41B
+65,LH,Laboratory Corporation of America Holdings,18.24B,-0.68%,207152,12.16B
+66,RPRX,Royalty Pharma plc,18.13B,-1.22%,811907,2.35B
+67,HOLX,"Hologic, Inc.",17.76B,0.74%,697114,3.97B
+68,BMRN,BioMarin Pharmaceutical Inc.,16.07B,-0.47%,340581,2.42B
+69,TEVA,Teva Pharmaceutical Industries Limited,15.28B,1.22%,4780199,15.85B
+70,DGX,Quest Diagnostics Incorporated,14.36B,-0.51%,369143,9.25B
+71,VTRS,Viatris Inc.,14.30B,0.58%,4460524,15.43B
+72,NBIX,"Neurocrine Biosciences, Inc.",13.71B,1.55%,356491,1.89B
+73,CRL,"Charles River Laboratories International, Inc.",13.56B,-1.02%,341636,4.13B
+74,RVTY,"Revvity, Inc.",13.44B,-0.96%,297224,2.75B
+75,INCY,Incyte Corporation,13.32B,-0.76%,645570,3.70B
+76,BRKR,Bruker Corporation,12.76B,-0.02%,266174,2.96B
+77,RDY,Dr. Reddy's Laboratories Limited,12.76B,-1.49%,76055,2.99B
+78,PODD,Insulet Corporation,12.71B,-2.90%,266051,1.70B
+79,MEDP,"Medpace Holdings, Inc.",12.58B,-0.57%,118078,1.89B
+80,KRTX,"Karuna Therapeutics, Inc.",12.30B,-0.12%,443361,654.00K
+81,SNN,Smith & Nephew plc,12.30B,-0.43%,265583,5.55B
+82,DVA,DaVita Inc.,12.16B,-1.32%,515896,12.14B
+83,FMS,Fresenius Medical Care AG & Co. KGaA,11.95B,-0.40%,449229,21.62B
+84,LEGN,Legend Biotech Corporation,11.95B,3.78%,1526581,285.14M
+85,UHS,"Universal Health Services, Inc.",11.74B,-0.23%,190200,14.28B
+86,TECH,Bio-Techne Corporation,11.65B,-2.06%,445057,1.14B
+87,UTHR,United Therapeutics Corporation,11.62B,-1.89%,272801,2.33B
+88,SRPT,"Sarepta Therapeutics, Inc.",11.45B,-0.43%,275624,1.24B
+89,EXAS,Exact Sciences Corporation,11.02B,0.79%,691790,2.50B
+90,NTRA,"Natera, Inc.",10.82B,-1.31%,363233,1.08B
+91,RGEN,Repligen Corporation,10.75B,0.68%,184820,638.76M
+92,TFX,Teleflex Incorporated,10.68B,-1.20%,52759,2.97B
+93,CTLT,"Catalent, Inc.",10.21B,-0.04%,1292676,4.10B
+94,THC,Tenet Healthcare Corporation,10.00B,0.25%,892349,20.56B
+95,SWAV,"ShockWave Medical, Inc.",9.90B,2.17%,200676,730.23M
+96,QGEN,Qiagen N.V.,9.88B,-0.68%,393557,1.97B
+97,CHE,Chemed Corporation,9.73B,0.56%,34259,2.26B
+98,BIO,"Bio-Rad Laboratories, Inc.",9.59B,-0.65%,63214,2.67B
+99,BIO.B,"Bio-Rad Laboratories, Inc.",9.59B,1.70%,7,-
+100,HSIC,"Henry Schein, Inc.",9.56B,1.62%,440398,12.34B
+101,ATR,"AptarGroup, Inc.",9.40B,-0.61%,106807,3.49B
+102,PEN,"Penumbra, Inc.",9.26B,-1.30%,182780,1.06B
+103,ASND,Ascendis Pharma A/S,8.69B,-0.63%,128369,296.35M
+104,ROIV,Roivant Sciences Ltd.,8.29B,2.19%,3407841,123.24M
+105,ELAN,Elanco Animal Health Incorporated,7.77B,0.98%,1863320,4.42B
+106,PCVX,"Vaxcyte, Inc.",7.74B,2.25%,232379,-
+107,EHC,Encompass Health Corporation,7.71B,-1.29%,299117,4.80B
+108,CERE,"Cerevel Therapeutics Holdings, Inc.",7.59B,0.59%,1027543,-
+109,STVN,Stevanato Group S.p.A.,7.58B,3.24%,120925,1.21B
+110,VKTX,"Viking Therapeutics, Inc.",7.57B,4.49%,3137910,-
+111,GMED,"Globus Medical, Inc.",7.48B,0.43%,252721,1.57B
+112,ACHC,"Acadia Healthcare Company, Inc.",7.43B,-2.14%,1045635,2.93B
+113,JAZZ,Jazz Pharmaceuticals plc,7.22B,1.15%,187588,3.83B
+114,HQY,"HealthEquity, Inc.",7.15B,1.30%,202258,971.04M
+115,ENSG,"The Ensign Group, Inc.",7.06B,-0.91%,76137,3.73B
+116,APLS,"Apellis Pharmaceuticals, Inc.",7.05B,-1.63%,429418,396.59M
+117,XRAY,DENTSPLY SIRONA Inc.,6.97B,1.79%,897904,3.97B
+118,EXEL,"Exelixis, Inc.",6.88B,1.26%,1078021,1.83B
+119,MASI,Masimo Corporation,6.83B,3.13%,231824,2.05B
+120,CYTK,"Cytokinetics, Incorporated",6.65B,-0.86%,975217,7.53M
+121,IONS,"Ionis Pharmaceuticals, Inc.",6.26B,0.22%,335630,787.65M
+122,ITCI,"Intra-Cellular Therapies, Inc.",6.23B,1.01%,249387,464.37M
+123,CRSP,CRISPR Therapeutics AG,6.04B,-0.81%,794258,371.21M
+124,RCM,R1 RCM Inc.,5.90B,-0.78%,1595628,2.25B
+125,INSP,"Inspire Medical Systems, Inc.",5.73B,-1.02%,129381,624.80M
+126,OPCH,"Option Care Health, Inc.",5.68B,-1.41%,276408,4.30B
+127,BLCO,Bausch + Lomb Corporation,5.66B,-0.50%,158728,4.15B
+128,NUVL,"Nuvalent, Inc.",5.58B,1.61%,474340,-
+129,RVMD,"Revolution Medicines, Inc.",5.53B,-0.92%,1076538,11.58M
+130,BPMC,Blueprint Medicines Corporation,5.42B,1.24%,160743,249.38M
+131,GRFS,"Grifols, S.A.",5.34B,-,1037972,6.45B
+132,HALO,"Halozyme Therapeutics, Inc.",5.32B,-0.50%,449083,829.25M
+133,BBIO,"BridgeBio Pharma, Inc.",5.29B,-1.08%,411190,9.30M
+134,MDGL,"Madrigal Pharmaceuticals, Inc.",5.23B,1.94%,408598,-
+135,DOCS,"Doximity, Inc.",5.17B,0.43%,324061,468.33M
+136,KRYS,"Krystal Biotech, Inc.",5.06B,0.95%,231543,50.70M
+137,BHVN,Biohaven Pharmaceutical Holding Company Ltd.,4.78B,1.93%,688974,-
+138,ALKS,Alkermes plc,4.78B,0.86%,626760,1.66B
+139,OGN,Organon & Co.,4.67B,0.27%,914249,6.26B
+140,TXG,"10x Genomics, Inc.",4.67B,-1.63%,531434,618.73M
+141,IMVT,"Immunovant, Inc.",4.58B,0.29%,593996,-
+142,GKOS,Glaukos Corporation,4.35B,1.27%,110576,314.71M
+143,MMSI,"Merit Medical Systems, Inc.",4.28B,-1.15%,159519,1.26B
+144,LNTH,"Lantheus Holdings, Inc.",4.23B,-1.72%,280449,1.30B
+145,PRGO,Perrigo Company plc,4.14B,1.31%,1008959,4.66B
+146,IOVA,"Iovance Biotherapeutics, Inc.",4.11B,-0.95%,3454446,1.19M
+147,ALVO,Alvotech,4.10B,0.39%,42844,63.75M
+148,INSM,Insmed Incorporated,4.06B,0.99%,345060,305.21M
+149,SHC,Sotera Health Company,3.94B,0.73%,509618,1.05B
+150,RARE,Ultragenyx Pharmaceutical Inc.,3.92B,2.71%,405427,434.25M
+151,HAE,Haemonetics Corporation,3.90B,-0.14%,76512,1.27B
+152,EVH,"Evolent Health, Inc.",3.84B,0.83%,250822,1.96B
+153,ITGR,Integer Holdings Corporation,3.79B,0.44%,55276,1.60B
+154,CBAY,"CymaBay Therapeutics, Inc.",3.72B,-0.02%,2387393,31.07M
+155,NVST,Envista Holdings Corporation,3.69B,1.47%,1686536,2.57B
+156,PBH,Prestige Consumer Healthcare Inc.,3.68B,0.53%,73894,1.13B
+157,SEM,Select Medical Holdings Corporation,3.67B,-0.10%,119689,6.66B
+158,SWTX,"SpringWorks Therapeutics, Inc.",3.67B,2.45%,288763,5.45M
+159,SGRY,"Surgery Partners, Inc.",3.66B,-3.25%,353914,2.74B
+160,ACLX,"Arcellx, Inc.",3.61B,2.47%,253954,110.32M
+161,AZTA,"Azenta, Inc.",3.61B,-0.45%,176164,641.02M
+162,ARWR,"Arrowhead Pharmaceuticals, Inc.",3.54B,0.05%,547003,181.74M
+163,FOLD,"Amicus Therapeutics, Inc.",3.48B,-0.25%,745810,399.36M
+164,PGNY,"Progyny, Inc.",3.48B,2.41%,383820,1.09B
+165,NEOG,Neogen Corporation,3.46B,-0.79%,553425,918.68M
+166,AXNX,"Axonics, Inc.",3.45B,0.31%,300146,366.38M
+167,RDNT,"RadNet, Inc.",3.39B,-1.88%,220945,1.62B
+168,IBRX,"ImmunityBio, Inc.",3.39B,-0.89%,1772516,556.00K
+169,BHC,Bausch Health Companies Inc.,3.36B,1.03%,577468,8.76B
+170,OSCR,"Oscar Health, Inc.",3.35B,-0.45%,2372297,5.86B
+171,XENE,Xenon Pharmaceuticals Inc.,3.34B,1.07%,169473,-
+172,IDYA,"IDEAYA Biosciences, Inc.",3.34B,1.16%,130128,23.39M
+173,ACAD,ACADIA Pharmaceuticals Inc.,3.29B,-3.75%,1237613,726.44M
+174,IRTC,"iRhythm Technologies, Inc.",3.29B,-0.39%,71602,492.68M
+175,AXSM,"Axsome Therapeutics, Inc.",3.27B,1.12%,451639,270.60M
+176,CRNX,"Crinetics Pharmaceuticals, Inc.",3.18B,-0.44%,193757,4.01M
+177,QDEL,QuidelOrtho Corporation,3.13B,0.73%,369162,3.00B
+178,ARVN,"Arvinas, Inc.",3.10B,1.48%,265083,78.50M
+179,IMCR,Immunocore Holdings plc,3.05B,-0.39%,165230,249.43M
+180,AMED,"Amedisys, Inc.",3.04B,0.04%,72945,2.24B
+181,CLDX,"Celldex Therapeutics, Inc.",3.03B,-0.93%,496029,6.88M
+182,SMMT,Summit Therapeutics Inc.,3.02B,4.76%,1084742,-
+183,CERT,"Certara, Inc.",3.01B,1.43%,271637,354.34M
+184,OLK,Olink Holding AB (publ),2.96B,0.42%,151604,158.93M
+185,MLTX,MoonLake Immunotherapeutics,2.96B,-2.90%,223244,-
+186,BEAM,Beam Therapeutics Inc.,2.92B,2.65%,385240,377.71M
+187,DNLI,Denali Therapeutics Inc.,2.89B,0.14%,436963,330.53M
+188,GDRX,"GoodRx Holdings, Inc.",2.89B,0.55%,496979,750.27M
+189,INDV,Indivior PLC,2.88B,-,145663,1.09B
+190,HCM,HUTCHMED (China) Limited,2.81B,17.21%,542126,838.00M
+191,IART,Integra LifeSciences Holdings Corporation,2.81B,0.06%,304398,1.54B
+192,LIVN,LivaNova PLC,2.79B,0.52%,255477,1.15B
+193,TMDX,"TransMedics Group, Inc.",2.77B,-1.21%,196311,241.62M
+194,MOR,MorphoSys AG,2.73B,0.03%,233941,321.80M
+195,NTLA,"Intellia Therapeutics, Inc.",2.68B,1.94%,488872,36.28M
+196,MRUS,Merus N.V.,2.67B,-0.55%,160712,43.95M
+197,LFST,"LifeStance Health Group, Inc.",2.62B,-3.34%,467627,1.06B
+198,CNMD,CONMED Corporation,2.61B,0.91%,191609,1.24B
+199,CGON,"CG Oncology, Inc.",2.61B,10.08%,267192,191.00K
+200,EVO,Evotec SE,2.59B,-3.28%,19694,-
+201,TDOC,"Teladoc Health, Inc.",2.59B,-1.01%,2658164,2.60B
+202,PRVA,"Privia Health Group, Inc.",2.57B,-3.40%,360564,1.66B
+203,PINC,"Premier, Inc.",2.55B,-0.70%,1065931,1.32B
+204,KYMR,"Kymera Therapeutics, Inc.",2.55B,0.31%,328687,78.59M
+205,CORT,Corcept Therapeutics Incorporated,2.53B,-1.68%,254460,482.38M
+206,DNA,"Ginkgo Bioworks Holdings, Inc.",2.52B,0.85%,8580165,251.46M
+207,FTRE,Fortrea Holdings Inc.,2.49B,2.05%,1160794,-
+208,PRCT,PROCEPT BioRobotics Corporation,2.48B,3.12%,211649,136.19M
+209,RXRX,"Recursion Pharmaceuticals, Inc.",2.47B,4.08%,5011461,44.58M
+210,KROS,"Keros Therapeutics, Inc.",2.47B,1.27%,112135,151.00K
+211,NARI,"Inari Medical, Inc.",2.45B,-0.14%,277845,493.63M
+212,RCKT,"Rocket Pharmaceuticals, Inc.",2.45B,5.23%,286491,-
+213,TGTX,"TG Therapeutics, Inc.",2.45B,-0.06%,1176278,233.66M
+214,ICUI,"ICU Medical, Inc.",2.43B,1.50%,103180,2.26B
+215,PTCT,"PTC Therapeutics, Inc.",2.43B,-2.05%,350472,937.82M
+216,RYTM,"Rhythm Pharmaceuticals, Inc.",2.42B,1.85%,207182,77.43M
+217,PDCO,"Patterson Companies, Inc.",2.42B,0.37%,343304,6.57B
+218,ALPN,"Alpine Immune Sciences, Inc.",2.39B,0.77%,353952,30.80M
+219,VERA,"Vera Therapeutics, Inc.",2.37B,-0.57%,204609,-
+220,AGL,"agilon health, inc.",2.36B,-5.89%,3747141,4.32B
+221,NMRA,"Neumora Therapeutics, Inc.",2.35B,-15.73%,2934683,-
+222,GLPG,Galapagos NV,2.30B,-0.73%,38667,-
+223,GH,"Guardant Health, Inc.",2.27B,0.86%,691053,563.95M
+224,AMN,"AMN Healthcare Services, Inc.",2.23B,0.47%,309826,3.79B
+225,DYN,"Dyne Therapeutics, Inc.",2.22B,6.86%,510458,-
+226,VCEL,Vericel Corporation,2.15B,0.36%,91149,197.52M
+227,AMPH,"Amphastar Pharmaceuticals, Inc.",2.10B,-1.01%,201279,644.40M
+228,NAMS,NewAmsterdam Pharma Company N.V.,2.09B,-4.89%,98878,15.66M
+229,SANA,"Sana Biotechnology, Inc.",2.04B,4.53%,407638,-
+230,ZLAB,Zai Lab Limited,2.03B,3.89%,722956,266.72M
+231,SNDX,"Syndax Pharmaceuticals, Inc.",2.02B,-1.63%,446649,-
+232,TWST,Twist Bioscience Corporation,2.01B,1.95%,334440,262.36M
+233,JANX,"Janux Therapeutics, Inc.",2.01B,0.04%,174600,8.08M
+234,ARDX,"Ardelyx, Inc.",1.96B,1.54%,2592314,124.46M
+235,AKRO,"Akero Therapeutics, Inc.",1.96B,-2.07%,542045,-
+236,NEO,"NeoGenomics, Inc.",1.96B,0.33%,167463,591.64M
+237,MRVI,"Maravai LifeSciences Holdings, Inc.",1.94B,2.91%,857375,288.95M
+238,OMI,"Owens & Minor, Inc.",1.94B,0.28%,138275,10.33B
+239,MYGN,"Myriad Genetics, Inc.",1.94B,-0.51%,129246,753.20M
+240,TNDM,"Tandem Diabetes Care, Inc.",1.92B,-2.21%,510312,747.72M
+241,CPRX,"Catalyst Pharmaceuticals, Inc.",1.91B,1.82%,547763,398.20M
+242,SDGR,"Schrödinger, Inc.",1.90B,1.06%,344135,216.67M
+243,RXST,"RxSight, Inc.",1.87B,-3.86%,283326,89.08M
+244,ASTH,Astrana Health Inc,1.86B,-2.02%,45078,1.39B
+245,STAA,STAAR Surgical Company,1.84B,2.40%,396546,322.42M
+246,ATEC,"Alphatec Holdings, Inc.",1.84B,2.55%,789185,482.26M
+247,PROK,ProKidney Corp.,1.81B,2.67%,465093,-
+248,RNA,"Avidity Biosciences, Inc.",1.81B,5.60%,664514,9.56M
+249,INMD,InMode Ltd.,1.81B,2.03%,505375,492.05M
+250,SUPN,"Supernus Pharmaceuticals, Inc.",1.80B,4.86%,477308,607.52M
+251,MORF,"Morphic Holding, Inc.",1.78B,-2.25%,107674,521.00K
+252,HRMY,"Harmony Biosciences Holdings, Inc.",1.76B,-0.36%,223967,582.02M
+253,PTGX,"Protagonist Therapeutics, Inc.",1.74B,1.31%,362386,60.00M
+254,AGIO,"Agios Pharmaceuticals, Inc.",1.70B,-0.38%,172586,26.82M
+255,RCUS,"Arcus Biosciences, Inc.",1.69B,0.64%,209883,117.00M
+256,KURA,"Kura Oncology, Inc.",1.69B,2.29%,292692,-
+257,INBX,"Inhibrx, Inc.",1.68B,0.06%,390556,1.80M
+258,VCYT,"Veracyte, Inc.",1.68B,-0.72%,280639,361.05M
+259,ATRC,"AtriCure, Inc.",1.66B,-2.49%,324446,399.25M
+260,DVAX,Dynavax Technologies Corporation,1.65B,-4.39%,1182263,232.28M
+261,EWTX,"Edgewise Therapeutics, Inc.",1.65B,0.31%,221648,-
+262,GPCR,Structure Therapeutics Inc.,1.64B,-1.64%,185429,-
+263,AMRX,"Amneal Pharmaceuticals, Inc.",1.63B,2.07%,401209,2.39B
+264,NVCR,NovoCure Limited,1.62B,-2.45%,328327,509.34M
+265,APGE,"Apogee Therapeutics, Inc.",1.62B,0.59%,362917,-
+266,USPH,"U.S. Physical Therapy, Inc.",1.60B,1.65%,32810,604.80M
+267,ADUS,Addus HomeCare Corporation,1.60B,0.59%,54928,1.06B
+268,TARO,Taro Pharmaceutical Industries Ltd.,1.58B,0.45%,10923,610.83M
+269,IRON,"Disc Medicine, Inc.",1.54B,2.14%,92063,-
+270,BTSG,"BrightSpring Health Services, Inc.",1.52B,-3.05%,326004,8.83B
+271,UFPT,"UFP Technologies, Inc.",1.49B,1.07%,30046,400.07M
+272,NHC,National HealthCare Corporation,1.48B,-1.01%,30515,1.14B
+273,PRTA,Prothena Corporation plc,1.48B,3.74%,155854,91.37M
+274,LMAT,"LeMaitre Vascular, Inc.",1.48B,0.65%,40603,193.48M
+275,VIR,"Vir Biotechnology, Inc.",1.45B,0.65%,341569,86.18M
+276,AVDL,Avadel Pharmaceuticals plc,1.45B,1.25%,572277,27.96M
+277,PCRX,"Pacira BioSciences, Inc.",1.44B,-0.95%,139488,674.98M
+278,KNSA,"Kiniksa Pharmaceuticals, Ltd.",1.44B,0.68%,152099,270.26M
+279,AHCO,AdaptHealth Corp.,1.43B,-4.43%,321562,3.20B
+280,ABCL,AbCellera Biologics Inc.,1.43B,0.31%,665251,38.03M
+281,SLNO,"Soleno Therapeutics, Inc.",1.43B,0.27%,83325,-
+282,FDMT,"4D Molecular Therapeutics, Inc.",1.42B,2.94%,163533,20.72M
+283,ADMA,"ADMA Biologics, Inc.",1.42B,-0.48%,1086474,258.22M
+284,ANIP,"ANI Pharmaceuticals, Inc.",1.40B,0.02%,80579,486.82M
+285,XNCR,"Xencor, Inc.",1.39B,1.69%,165072,168.34M
+286,IMNM,"Immunome, Inc.",1.39B,-2.32%,174498,10.19M
+287,ESTA,Establishment Labs Holdings Inc.,1.36B,1.57%,88319,165.15M
+288,IRWD,"Ironwood Pharmaceuticals, Inc.",1.36B,1.73%,2097705,442.74M
+289,WRBY,Warby Parker Inc.,1.35B,-0.17%,329773,669.77M
+290,OCUL,"Ocular Therapeutix, Inc.",1.35B,2.96%,2092986,58.44M
+291,AGTI,"Agiliti, Inc.",1.35B,0.15%,2049527,1.17B
+292,VRNA,Verona Pharma plc,1.33B,0.79%,222125,-
+293,DCPH,"Deciphera Pharmaceuticals, Inc.",1.30B,-1.31%,202779,163.36M
+294,PHR,"Phreesia, Inc.",1.29B,1.08%,291686,337.88M
+295,OMCL,"Omnicell, Inc.",1.29B,-,140106,1.15B
+296,DAWN,"Day One Biopharmaceuticals, Inc.",1.29B,-0.41%,180020,-
+297,LGND,Ligand Pharmaceuticals Incorporated,1.28B,0.97%,62543,-
+298,MIRM,"Mirum Pharmaceuticals, Inc.",1.28B,1.84%,229685,144.73M
+299,PHVS,Pharvaris N.V.,1.27B,-1.14%,74967,-
+300,TLRY,"Tilray Brands, Inc.",1.27B,0.89%,5977051,700.50M
+301,AUTL,Autolus Therapeutics plc,1.25B,-0.56%,521567,5.52M
+302,SAGE,"Sage Therapeutics, Inc.",1.23B,-0.47%,293910,86.46M
+303,RLAY,"Relay Therapeutics, Inc.",1.23B,-2.03%,225336,25.55M
+304,IMTX,Immatics N.V.,1.22B,1.00%,97976,80.56M
+305,MNKD,MannKind Corporation,1.20B,0.79%,1209203,198.96M
+306,ETNB,"89bio, Inc.",1.20B,2.49%,451310,-
+307,SRRK,Scholar Rock Holding Corporation,1.20B,-0.54%,275407,-
+308,COLL,"Collegium Pharmaceutical, Inc.",1.20B,1.87%,136510,566.77M
+309,KYTX,"Kyverna Therapeutics, Inc.",1.19B,0.88%,47837,7.03M
+310,MDXG,"MiMedx Group, Inc.",1.17B,0.13%,632185,321.48M
+311,BKD,Brookdale Senior Living Inc.,1.17B,2.03%,3238534,3.02B
+312,VERV,"Verve Therapeutics, Inc.",1.16B,2.16%,416781,11.76M
+313,ARQT,"Arcutis Biotherapeutics, Inc.",1.16B,7.27%,2158895,59.61M
+314,BLTE,"Belite Bio, Inc",1.16B,-0.15%,39808,-
+315,TARS,"Tarsus Pharmaceuticals, Inc.",1.16B,3.94%,162671,17.45M
+316,EYPT,"EyePoint Pharmaceuticals, Inc.",1.14B,-3.29%,457325,46.02M
+317,VRDN,"Viridian Therapeutics, Inc.",1.10B,0.26%,387336,314.00K
+318,MGNX,"MacroGenics, Inc.",1.10B,-5.43%,1149767,58.75M
+319,PACB,"Pacific Biosciences of California, Inc.",1.07B,3.49%,8669991,200.52M
+320,RGNX,REGENXBIO Inc.,1.07B,1.59%,204858,90.24M
+321,CNTA,Centessa Pharmaceuticals plc,1.06B,0.37%,51205,-
+322,LQDA,Liquidia Corporation,1.06B,4.72%,522056,18.32M
+323,BCRX,"BioCryst Pharmaceuticals, Inc.",1.06B,-1.07%,1133636,331.41M
+324,ZNTL,"Zentalis Pharmaceuticals, Inc.",1.06B,0.64%,257138,-
+325,ARCT,Arcturus Therapeutics Holdings Inc.,1.04B,-0.90%,181262,296.24M
+326,ORIC,"ORIC Pharmaceuticals, Inc.",1.03B,7.19%,312062,-
+327,GERN,Geron Corporation,1.03B,-5.32%,12996350,237.00K
+328,QTRX,Quanterix Corporation,1.02B,-1.03%,95244,122.37M
+329,TNGX,"Tango Therapeutics, Inc.",1.02B,-5.00%,449263,37.51M
+330,ZJYL,Jin Medical International Ltd.,1.01B,-,81721,19.19M
+331,TVGN,Tevogen Bio Holdings Inc,1.00B,-8.10%,1206,-
+332,SYRE,"Spyre Therapeutics, Inc.",990.58M,6.85%,200798,886.00K
+333,TYRA,"Tyra Biosciences, Inc.",989.84M,-0.53%,92552,-
+334,DH,Definitive Healthcare Corp.,967.68M,0.61%,154482,251.42M
+335,NRC,National Research Corporation,956.32M,0.15%,13675,148.58M
+336,ALHC,"Alignment Healthcare, Inc.",956.23M,-1.28%,772823,1.82B
+337,BCYC,Bicycle Therapeutics plc,948.52M,1.72%,139322,26.98M
+338,CTKB,"Cytek Biosciences, Inc.",943.07M,-2.04%,524424,183.12M
+339,CRGX,"CARGO Therapeutics, Inc.",941.12M,6.02%,132199,-
+340,INVA,"Innoviva, Inc.",937.03M,-,270479,310.46M
+341,PRME,"Prime Medicine, Inc.",924.73M,1.75%,291341,-
+342,HCSG,"Healthcare Services Group, Inc.",915.37M,0.08%,98064,1.67B
+343,PLRX,"Pliant Therapeutics, Inc.",912.02M,0.17%,139550,1.58M
+344,AVNS,"Avanos Medical, Inc.",911.12M,-0.30%,60403,673.30M
+345,SLN,Silence Therapeutics plc,904.88M,-3.90%,416804,33.78M
+346,SAVA,"Cassava Sciences, Inc.",899.52M,-1.63%,345981,-
+347,CABA,"Cabaletta Bio, Inc.",887.41M,-1.81%,477521,-
+348,HLVX,"HilleVax, Inc.",874.29M,0.89%,40935,-
+349,SLP,"Simulations Plus, Inc.",865.38M,3.11%,46199,62.11M
+350,FNA,"Paragon 28, Inc.",838.31M,-4.15%,206678,216.39M
+351,ALLO,"Allogene Therapeutics, Inc.",824.56M,-0.20%,1377685,186.00K
+352,AORT,"Artivion, Inc.",824.09M,0.23%,72121,354.00M
+353,EOLS,"Evolus, Inc.",816.43M,-0.14%,173534,202.09M
+354,SPRY,"ARS Pharmaceuticals, Inc.",812.14M,5.20%,311616,1.35M
+355,WVE,Wave Life Sciences Ltd.,811.35M,0.75%,204935,113.31M
+356,SLRN,"Acelyrin, Inc.",806.94M,1.21%,505691,-
+357,HSTM,"HealthStream, Inc.",801.45M,-0.76%,62864,279.06M
+358,ATXS,"Astria Therapeutics, Inc.",795.00M,3.11%,354591,-
+359,EMBC,Embecta Corp.,791.13M,2.91%,96256,1.12B
+360,MD,"Pediatrix Medical Group, Inc.",787.39M,0.48%,274342,1.99B
+361,PHAR,Pharming Group N.V.,783.10M,-7.03%,1047,232.68M
+362,LAB,Standard BioTools Inc.,777.52M,-1.31%,2284425,106.34M
+363,CVAC,CureVac N.V.,770.30M,-,632811,45.62M
+364,ZYME,Zymeworks Inc.,769.19M,-0.37%,214494,76.01M
+365,ATRI,Atrion Corporation,763.33M,-1.53%,10008,169.33M
+366,TMCI,"Treace Medical Concepts, Inc.",763.29M,-,67183,187.12M
+367,FATE,"Fate Therapeutics, Inc.",760.16M,0.85%,1095544,63.53M
+368,EXAI,Exscientia plc,752.14M,8.89%,1012314,29.47M
+369,AUPH,Aurinia Pharmaceuticals Inc.,751.29M,-0.38%,764799,175.51M
+370,CRON,Cronos Group Inc.,751.16M,2.03%,1079213,87.24M
+371,TRML,"Tourmaline Bio, Inc.",746.59M,0.90%,132692,-
+372,BLFS,"BioLife Solutions, Inc.",743.38M,5.59%,130417,143.27M
+373,CCCC,"C4 Therapeutics, Inc.",738.14M,0.79%,1319301,20.76M
+374,ACCD,"Accolade, Inc.",728.41M,0.32%,314138,388.49M
+375,CGEM,"Cullinan Oncology, Inc.",724.70M,0.24%,79124,-
+376,OLMA,"Olema Pharmaceuticals, Inc.",720.18M,3.54%,533583,-
+377,PRAX,"Praxis Precision Medicines, Inc.",713.68M,1.39%,33850,2.45M
+378,NRIX,"Nurix Therapeutics, Inc.",711.65M,1.15%,414194,76.99M
+379,SIBN,"SI-BONE, Inc.",710.42M,-3.32%,207529,138.89M
+380,EDIT,"Editas Medicine, Inc.",709.73M,-0.52%,620151,78.12M
+381,NVAX,"Novavax, Inc.",708.16M,3.36%,2830982,983.71M
+382,ABVX,Abivax SA,705.31M,-2.07%,8674,-
+383,VREX,Varex Imaging Corporation,705.14M,-0.23%,65459,877.80M
+384,YMAB,"Y-mAbs Therapeutics, Inc.",704.37M,-1.86%,99554,84.82M
+385,ANAB,"AnaptysBio, Inc.",700.43M,-2.15%,192463,17.16M
+386,CMPS,COMPASS Pathways plc,690.77M,0.28%,306393,-
+387,PRTC,PureTech Health plc,690.26M,-,1009,15.62M
+388,FUSN,Fusion Pharmaceuticals Inc.,684.23M,0.26%,363447,2.21M
+389,MRSN,"Mersana Therapeutics, Inc.",684.15M,2.39%,1268833,36.86M
+390,FLGT,"Fulgent Genetics, Inc.",680.88M,0.53%,192257,289.21M
+391,SVRA,Savara Inc.,678.31M,-0.51%,217078,-
+392,FULC,"Fulcrum Therapeutics, Inc.",675.71M,3.12%,790501,2.81M
+393,CATX,"Perspective Therapeutics, Inc.",674.82M,-5.65%,1614642,8.17M
+394,LBPH,"Longboard Pharmaceuticals, Inc.",671.79M,-,340623,-
+395,AVTE,"Aerovate Therapeutics, Inc.",667.93M,7.15%,48639,-
+396,NKTX,"Nkarta, Inc.",666.40M,-1.15%,313629,-
+397,COGT,"Cogent Biosciences, Inc.",659.85M,3.15%,499706,-
+398,RVNC,"Revance Therapeutics, Inc.",654.98M,-2.70%,753755,234.04M
+399,OPK,"OPKO Health, Inc.",653.50M,0.74%,6106480,863.50M
+400,KIDS,OrthoPediatrics Corp.,645.49M,-0.93%,41855,148.73M
+401,CCRN,"Cross Country Healthcare, Inc.",638.61M,-4.95%,135079,2.02B
+402,APLT,"Applied Therapeutics, Inc.",636.38M,1.66%,485435,9.99M
+403,MLYS,"Mineralys Therapeutics, Inc.",635.85M,-1.59%,278345,-
+404,INNV,InnovAge Holding Corp.,631.93M,1.29%,3715,720.80M
+405,AVBP,"ArriVent BioPharma, Inc.",627.95M,2.19%,23270,-
+406,OABI,"OmniAb, Inc.",623.95M,-0.37%,163497,64.69M
+407,SILK,"Silk Road Medical, Inc",622.09M,-1.92%,250620,177.13M
+408,LXRX,"Lexicon Pharmaceuticals, Inc.",620.52M,-1.98%,4906603,531.00K
+409,CALT,Calliditas Therapeutics AB (publ),606.19M,3.96%,5996,105.88M
+410,TVTX,"Travere Therapeutics, Inc.",589.38M,4.90%,464416,145.24M
+411,PLSE,"Pulse Biosciences, Inc.",588.26M,-0.55%,61101,-9.00K
+412,ALXO,ALX Oncology Holdings Inc.,587.78M,-6.27%,273588,-
+413,MNMD,Mind Medicine (MindMed) Inc.,586.93M,14.31%,2547185,-
+414,IGMS,"IGM Biosciences, Inc.",584.93M,-0.10%,170566,2.13M
+415,ALT,"Altimmune, Inc.",580.27M,1.29%,2498164,279.00K
+416,PNTG,"The Pennant Group, Inc.",574.14M,-0.10%,57059,544.89M
+417,CDNA,"CareDx, Inc",572.67M,-3.77%,304503,280.32M
+418,ALEC,"Alector, Inc.",563.96M,3.90%,514901,97.06M
+419,NNOX,Nano-X Imaging Ltd.,560.87M,1.20%,1222234,9.64M
+420,BMEA,"Biomea Fusion, Inc.",557.72M,9.86%,638087,-
+421,ABSI,Absci Corporation,553.99M,-,436225,6.94M
+422,LYEL,"Lyell Immunopharma, Inc.",553.93M,8.49%,537284,130.00K
+423,IRMD,IRadimed Corporation,549.57M,1.85%,25361,65.56M
+424,TALK,"Talkspace, Inc.",548.07M,-0.30%,1094260,137.87M
+425,CSTL,"Castle Biosciences, Inc.",547.90M,-1.45%,72222,219.79M
+426,URGN,UroGen Pharma Ltd.,542.63M,-1.19%,52010,77.28M
+427,LIAN,LianBio,534.91M,0.10%,52303,-
+428,MPLN,MultiPlan Corporation,534.70M,1.50%,729059,961.52M
+429,REPL,"Replimune Group, Inc.",534.07M,2.87%,300210,-
+430,NVRO,Nevro Corp.,532.68M,-2.15%,108650,425.17M
+431,LRMR,"Larimar Therapeutics, Inc.",532.37M,1.48%,140356,-
+432,RDUS,"Radius Health, Inc.",531.24M,2.02%,38318,2.96B
+433,OFIX,Orthofix Medical Inc.,525.56M,1.57%,96556,746.64M
+434,ELVN,"Enliven Therapeutics, Inc.",525.45M,-2.75%,33462,-
+435,DNTH,"Dianthus Therapeutics, Inc.",524.21M,21.91%,209679,924.00K
+436,EHAB,"Enhabit, Inc.",522.35M,3.60%,437908,1.05B
+437,PIII,P3 Health Partners Inc.,521.75M,-22.56%,1353062,1.18B
+438,OSUR,"OraSure Technologies, Inc.",521.00M,-,318935,405.47M
+439,ADPT,Adaptive Biotechnologies Corporation,520.15M,-3.06%,379502,170.28M
+440,KALV,"KalVista Pharmaceuticals, Inc.",519.19M,1.44%,149189,-
+441,VALN,Valneva SE,511.78M,-0.13%,3394,237.46M
+442,PAHC,Phibro Animal Health Corporation,511.16M,0.28%,74510,982.01M
+443,NUVB,Nuvation Bio Inc.,510.38M,2.58%,337297,-
+444,MRNS,"Marinus Pharmaceuticals, Inc.",502.71M,0.86%,149809,30.99M
+445,NYXH,Nyxoah S.A.,501.80M,2.06%,64022,4.83M
+446,VTYX,"Ventyx Biosciences, Inc.",498.79M,-1.90%,976901,-
+447,MREO,Mereo BioPharma Group plc,490.85M,-6.71%,2936737,9.02M
+448,VYGR,"Voyager Therapeutics, Inc.",490.33M,-,299089,250.01M
+449,PETQ,"PetIQ, Inc.",487.68M,-0.03%,54273,1.10B
+450,ABUS,Arbutus Biopharma Corporation,483.73M,0.04%,330776,18.14M
+451,GHRS,GH Research PLC,481.26M,8.11%,107133,-
+452,AVAH,Aveanna Healthcare Holdings Inc.,478.74M,3.19%,70187,1.87B
+453,PHAT,"Phathom Pharmaceuticals, Inc.",477.76M,-1.96%,263858,682.00K
+454,HCAT,"Health Catalyst, Inc.",477.29M,0.80%,113795,295.94M
+455,AEON,"AEON Biopharma, Inc.",460.78M,-1.48%,13718,-
+456,CRBP,"Corbus Pharmaceuticals Holdings, Inc.",457.61M,4.93%,249723,-
+457,CRBU,"Caribou Biosciences, Inc.",453.38M,9.26%,2750289,34.48M
+458,ZIMV,ZimVie Inc.,450.81M,1.89%,118839,457.43M
+459,CELC,Celcuity Inc.,450.49M,0.95%,257490,-
+460,PEPG,PepGen Inc.,449.40M,-1.55%,52744,-
+461,RENB,Renovaro Biosciences Inc.,446.81M,-7.56%,135438,-
+462,TERN,"Terns Pharmaceuticals, Inc.",440.59M,-2.38%,390459,-
+463,RCEL,"AVITA Medical, Inc.",437.01M,-0.12%,54600,51.57M
+464,CVRX,"CVRx, Inc.",433.83M,6.32%,46796,39.30M
+465,MODV,ModivCare Inc.,430.49M,-0.56%,35176,2.76B
+466,IVVD,"Invivyd, Inc.",430.22M,2.21%,79547,-
+467,OCS,Oculis Holding AG,429.21M,0.17%,12339,-
+468,TSHA,"Taysha Gene Therapies, Inc.",429.07M,-,627916,14.35M
+469,TNYA,"Tenaya Therapeutics, Inc.",427.35M,-2.97%,127543,-
+470,AVXL,Anavex Life Sciences Corp.,426.98M,2.50%,735251,-
+471,SLDB,Solid Biosciences Inc.,426.80M,5.75%,315666,-
+472,ITOS,"iTeos Therapeutics, Inc.",422.95M,-2.68%,83356,12.60M
+473,MXCT,"MaxCyte, Inc.",420.12M,4.52%,790298,41.29M
+474,SRDX,"Surmodics, Inc.",417.97M,-0.77%,11365,138.20M
+475,MGX,"Metagenomi, Inc.",415.81M,-2.62%,76036,17.20M
+476,STTK,"Shattuck Labs, Inc.",414.45M,3.84%,233046,1.66M
+477,ANNX,"Annexon, Inc.",413.15M,29.08%,3518604,-
+478,TBPH,"Theravance Biopharma, Inc.",410.36M,2.23%,90304,57.42M
+479,LXEO,"Lexeo Therapeutics, Inc.",410.34M,7.39%,99599,-
+480,NGNE,Neurogene Inc.,406.51M,-1.44%,39764,-
+481,ZYXI,"Zynex, Inc.",405.72M,0.71%,41940,184.32M
+482,THRD,"Third Harmonic Bio, Inc.",404.03M,0.93%,12900,-
+483,CDMO,"Avid Bioservices, Inc.",402.83M,-0.94%,1619776,140.94M
+484,FBLG,"FibroBiologics, Inc.",397.65M,-2.75%,35591,-
+485,EPIX,ESSA Pharma Inc.,395.71M,0.73%,24912,-
+486,AURA,"Aura Biosciences, Inc.",393.09M,-0.13%,72348,-
+487,CBUS,"Cibus, Inc.",391.83M,2.52%,4802,756.00K
+488,JSPR,"Jasper Therapeutics, Inc.",391.66M,4.29%,36339,-
+489,CYH,"Community Health Systems, Inc.",389.70M,0.70%,702543,12.49B
+490,ORGO,Organogenesis Holdings Inc.,387.97M,1.02%,193481,433.14M
+491,CERS,Cerus Corporation,387.95M,-3.50%,984117,186.80M
+492,ANL,Adlai Nortye Ltd.,387.83M,0.29%,999,-
+493,NPCE,"NeuroPace, Inc.",387.47M,-2.05%,26913,65.42M
+494,HUMA,"Humacyte, Inc.",387.19M,-0.60%,296057,-
+495,TRDA,"Entrada Therapeutics, Inc.",386.40M,3.71%,93535,87.17M
+496,MGTX,MeiraGTx Holdings plc,386.04M,3.95%,50243,-
+497,BTMD,biote Corp.,385.62M,15.09%,222305,184.14M
+498,ESPR,"Esperion Therapeutics, Inc.",379.36M,4.63%,1082557,116.33M
+499,DCGO,DocGo Inc.,378.14M,-3.03%,641676,624.29M
+500,ANIK,"Anika Therapeutics, Inc.",377.59M,-0.12%,48475,163.31M
+501,SIGA,"SIGA Technologies, Inc.",377.50M,19.17%,3733291,139.92M
+502,ADAP,Adaptimmune Therapeutics plc,375.17M,9.06%,1042873,60.28M
+503,PGEN,"Precigen, Inc.",374.62M,-,519074,6.76M
+504,CLOV,"Clover Health Investments, Corp.",374.27M,4.85%,26307027,2.42B
+505,TCMD,"Tactile Systems Technology, Inc.",374.19M,0.78%,68244,274.42M
+506,KRRO,"Korro Bio, Inc.",374.13M,-2.60%,27154,-
+507,AQST,"Aquestive Therapeutics, Inc.",373.84M,1.37%,1435290,50.58M
+508,ADVM,"Adverum Biotechnologies, Inc.",372.89M,-2.49%,653516,3.60M
+509,ANRO,"Alto Neuroscience, Inc.",372.25M,-4.33%,128416,-
+510,HROW,"Harrow Health, Inc.",367.33M,1.43%,138249,114.17M
+511,VMD,"Viemed Healthcare, Inc.",361.99M,-0.53%,67420,183.01M
+512,ADCT,ADC Therapeutics SA,358.86M,-13.48%,1300177,122.57M
+513,AXGN,"AxoGen, Inc.",355.59M,-0.67%,131505,159.01M
+514,SPOK,"Spok Holdings, Inc.",355.01M,0.31%,59241,139.03M
+515,HRTX,"Heron Therapeutics, Inc.",354.17M,30.51%,15161990,127.04M
+516,SNDL,SNDL Inc.,352.76M,-,1271045,685.16M
+517,BVS,Bioventus Inc.,352.61M,-4.55%,167783,512.35M
+518,ACIU,AC Immune SA,347.29M,4.00%,90481,1.09K
+519,INZY,"Inozyme Pharma, Inc.",344.38M,0.26%,415351,-
+520,AMRN,Amarin Corporation plc,343.64M,-1.33%,998705,306.91M
+521,LUNG,Pulmonx Corporation,342.98M,-,127122,68.68M
+522,PROC,Procaps Group S.A.,339.60M,6.64%,9028,414.10M
+523,AVIR,"Atea Pharmaceuticals, Inc.",337.50M,0.25%,70525,-
+524,SHCR,"Sharecare, Inc.",335.44M,2.24%,643179,239.56M
+525,LYRA,"Lyra Therapeutics, Inc.",335.35M,4.52%,79345,1.42M
+526,AIRS,"AirSculpt Technologies, Inc.",335.35M,2.05%,6696,195.92M
+527,KMDA,Kamada Ltd.,334.13M,-1.04%,11056,142.52M
+528,SENS,"Senseonics Holdings, Inc.",330.39M,-6.14%,1977949,22.39M
+529,LFMD,"LifeMD, Inc.",328.52M,6.26%,803963,152.55M
+530,GUTS,"Fractyl Health, Inc.",328.01M,-3.16%,304471,-
+531,TCRX,"TScan Therapeutics, Inc.",323.68M,3.85%,47331,21.05M
+532,ERAS,"Erasca, Inc.",323.33M,4.67%,337241,-
+533,NAUT,"Nautilus Biotechnology, Inc.",317.75M,3.15%,20963,-
+534,ATAI,Atai Life Sciences N.V.,317.08M,-2.09%,1487647,334.00K
+535,SOPH,SOPHiA GENETICS SA,316.71M,2.58%,12932,62.37M
+536,GOSS,"Gossamer Bio, Inc.",315.81M,2.86%,992796,-
+537,SMTI,Sanara MedTech Inc.,314.64M,1.09%,5471,62.62M
+538,KOD,Kodiak Sciences Inc.,311.16M,4.72%,355104,-
+539,SNDA,"Sonida Senior Living, Inc.",311.16M,-1.63%,17768,249.13M
+540,XERS,"Xeris Biopharma Holdings, Inc.",310.40M,-1.81%,1608175,163.91M
+541,ENTA,"Enanta Pharmaceuticals, Inc.",307.61M,-0.34%,117699,73.62M
+542,PSTX,"Poseida Therapeutics, Inc.",305.87M,5.36%,564488,64.70M
+543,GLUE,"Monte Rosa Therapeutics, Inc.",304.49M,6.25%,69038,-
+544,IMMP,Immutep Limited,303.15M,3.53%,93995,4.58M
+545,XOMA,XOMA Corporation,298.20M,-0.47%,3183,4.76M
+546,STOK,"Stoke Therapeutics, Inc.",296.05M,1.81%,171160,9.25M
+547,NBTX,Nanobiotix S.A.,293.03M,-5.22%,7641,7.41M
+548,SERA,"Sera Prognostics, Inc.",286.73M,-,30544,330.00K
+549,IPSC,"Century Therapeutics, Inc.",284.22M,2.11%,64711,2.49M
+550,AMWL,American Well Corporation,284.08M,4.16%,1152647,259.05M
+551,HOWL,"Werewolf Therapeutics, Inc.",282.07M,-5.23%,100719,19.94M
+552,RAPT,"RAPT Therapeutics, Inc.",277.34M,8.59%,444384,-
+553,FHTX,Foghorn Therapeutics Inc.,276.68M,2.91%,20877,34.16M
+554,EDAP,EDAP TMS S.A.,276.24M,1.48%,29618,60.13M
+555,OPT,Opthea Limited,275.89M,-7.37%,2887,385.28K
+556,VSTM,"Verastem, Inc.",273.91M,-0.60%,68673,-
+557,STRO,"Sutro Biopharma, Inc.",270.02M,1.69%,833182,48.64M
+558,ARAY,Accuray Incorporated,269.74M,-0.18%,117834,447.48M
+559,INO,"Inovio Pharmaceuticals, Inc.",268.99M,-4.74%,769397,832.01K
+560,FENC,Fennec Pharmaceuticals Inc.,268.34M,0.93%,13717,13.05M
+561,AGEN,Agenus Inc.,267.26M,0.52%,2894459,100.90M
+562,MESO,Mesoblast Limited,266.38M,-5.83%,515253,7.25M
+563,CGC,Canopy Growth Corporation,266.05M,2.05%,1047246,248.53M
+564,AKBA,"Akebia Therapeutics, Inc.",265.63M,2.11%,1260901,193.61M
+565,WGS,GeneDx Holdings Corp.,265.62M,9.86%,141227,202.57M
+566,QSI,Quantum-Si incorporated,265.11M,-0.27%,736118,1.08M
+567,CMPX,"Compass Therapeutics, Inc.",263.90M,4.83%,322591,-
+568,RIGL,"Rigel Pharmaceuticals, Inc.",261.31M,-0.67%,598640,116.88M
+569,CHRS,"Coherus BioSciences, Inc.",259.48M,2.46%,1411108,211.07M
+570,UTMD,"Utah Medical Products, Inc.",259.33M,-1.01%,9036,51.47M
+571,BLUE,"bluebird bio, Inc.",259.24M,1.12%,3858561,21.73M
+572,PBYI,"Puma Biotechnology, Inc.",257.91M,-,143283,235.64M
+573,OMER,Omeros Corporation,253.35M,1.49%,212787,-
+574,PYXS,"Pyxis Oncology, Inc.",252.64M,2.98%,634953,-
+575,OCGN,"Ocugen, Inc.",252.40M,8.74%,4360555,-
+576,CGEN,Compugen Ltd.,250.68M,1.79%,244534,33.46M
+577,TLSI,"TriSalus Life Sciences, Inc.",247.23M,-0.11%,31097,25.19M
+578,QURE,uniQure N.V.,246.37M,-1.84%,524628,15.84M
+579,OPRX,OptimizeRx Corporation,246.15M,1.47%,45525,62.81M
+580,GRTS,"Gritstone bio, Inc.",246.14M,-4.38%,909833,16.34M
+581,ZVRA,"Zevra Therapeutics, Inc.",244.51M,1.44%,133688,16.56M
+582,CDXS,"Codexis, Inc.",243.95M,0.14%,235165,70.14M
+583,GLSI,"Greenwich LifeSciences, Inc.",242.83M,-4.57%,55388,-
+584,TSVT,"2seventy bio, Inc.",242.70M,-15.43%,1401391,100.39M
+585,ME,23andMe Holding Co.,242.09M,2.27%,2681066,247.99M
+586,AKYA,"Akoya Biosciences, Inc.",238.82M,-,124852,96.63M
+587,ABOS,"Acumen Pharmaceuticals, Inc.",238.59M,3.76%,141682,-
+588,LCTX,"Lineage Cell Therapeutics, Inc.",233.78M,-2.02%,435610,8.95M
+589,AMLX,"Amylyx Pharmaceuticals, Inc.",233.17M,-0.44%,2781831,380.79M
+590,PRLD,Prelude Therapeutics Incorporated,232.86M,9.39%,21291,-
+591,MASS,908 Devices Inc.,231.36M,0.14%,74843,50.23M
+592,SMLR,"Semler Scientific, Inc.",228.58M,2.30%,39584,68.18M
+593,LFCR,"Lifecore Biomedical, Inc.",226.66M,0.84%,30231,157.39M
+594,VNDA,Vanda Pharmaceuticals Inc.,223.25M,0.26%,421856,192.64M
+595,RPTX,Repare Therapeutics Inc.,221.88M,3.90%,26738,51.13M
+596,VRCA,Verrica Pharmaceuticals Inc.,220.58M,-0.96%,106670,5.12M
+597,SCLX,Scilex Holding Company,219.37M,0.38%,292372,46.74M
+598,ANGO,"AngioDynamics, Inc.",218.81M,1.46%,193564,329.54M
+599,NOTV,"Inotiv, Inc.",216.38M,-2.92%,316838,585.17M
+600,OMGA,"Omega Therapeutics, Inc.",215.60M,2.05%,115204,2.84M
+601,SGHT,"Sight Sciences, Inc.",214.70M,0.92%,34806,82.85M
+602,OPTN,"OptiNose, Inc.",213.48M,1.85%,365396,70.99M
+603,TELO,"Telomir Pharmaceuticals, Inc.",213.04M,4.83%,64307,-
+604,MACK,"Merrimack Pharmaceuticals, Inc.",212.66M,0.38%,66303,-
+605,BFLY,"Butterfly Network, Inc.",212.30M,4.81%,593398,65.90M
+606,INMB,"INmune Bio, Inc.",211.94M,1.19%,29984,224.00K
+607,GBIO,Generation Bio Co.,209.07M,-2.58%,242696,5.90M
+608,FGEN,"FibroGen, Inc.",206.93M,5.82%,2251890,147.75M
+609,CDT,Conduit Pharmaceuticals Inc.,205.25M,-5.70%,25501,-
+610,STXS,"Stereotaxis, Inc.",203.68M,1.41%,187205,26.77M
+611,SPRB,"Spruce Biosciences, Inc.",203.55M,0.10%,485625,7.20M
+612,ABEO,Abeona Therapeutics Inc.,203.02M,-0.18%,199349,3.57M
+613,CLLS,Cellectis S.A.,202.82M,-2.29%,9930,24.41M
+614,DRTS,Alpha Tau Medical Ltd.,202.04M,-,14897,-
+615,IPHA,Innate Pharma S.A.,201.46M,-0.78%,1521,57.45M
+616,IVA,Inventiva S.A.,201.42M,-0.75%,31624,24.22M
+617,ALIM,"Alimera Sciences, Inc.",200.52M,0.52%,9794,80.75M
+618,PROF,Profound Medical Corp.,200.32M,0.67%,11558,5.41M
+619,ELEV,"Elevation Oncology, Inc.",198.50M,1.47%,186972,-
+620,GRPH,"Graphite Bio, Inc.",198.01M,5.44%,1112776,-
+621,BDTX,"Black Diamond Therapeutics, Inc.",195.49M,9.26%,275872,-
+622,XBIT,XBiotech Inc.,195.10M,0.39%,28869,300.00K
+623,OBIO,"Orchestra BioMed Holdings, Inc.",194.45M,1.84%,53637,3.60M
+624,OVID,Ovid Therapeutics Inc.,193.75M,-3.36%,143989,391.70K
+625,ACET,"Adicet Bio, Inc.",193.64M,-2.12%,307268,-
+626,INFU,"InfuSystem Holdings, Inc.",193.62M,4.21%,38757,122.84M
+627,SCPH,scPharmaceuticals Inc.,192.21M,-,66943,7.50M
+628,CRDF,"Cardiff Oncology, Inc.",189.43M,22.10%,3180749,488.00K
+629,CRMD,CorMedix Inc.,188.04M,12.87%,756962,-
+630,HBIO,"Harvard Bioscience, Inc.",185.32M,0.94%,35360,112.25M
+631,CAPR,"Capricor Therapeutics, Inc.",185.26M,1.02%,106410,25.18M
+632,TRVI,"Trevi Therapeutics, Inc.",184.55M,4.15%,155819,-
+633,OGI,OrganiGram Holdings Inc.,183.16M,0.41%,344065,-
+634,ATNM,"Actinium Pharmaceuticals, Inc.",182.97M,-0.23%,63168,-
+635,PRQR,ProQR Therapeutics N.V.,181.78M,16.59%,439122,4.92M
+636,ASPI,ASP Isotopes Inc.,181.44M,-0.76%,431649,-
+637,CYBN,Cybin Inc.,180.78M,-3.30%,37732213,-
+638,GNLX,Genelux Corporation,180.08M,-4.82%,32210,238.00K
+639,JYNT,The Joint Corp.,179.90M,-0.94%,58057,117.70M
+640,GNFT,Genfit S.A.,175.92M,1.42%,2999,32.69M
+641,NVCT,"Nuvectis Pharma, Inc.",175.56M,-5.47%,27317,-
+642,QIPT,Quipt Home Medical Corp.,174.94M,-2.29%,53597,185.18M
+643,VXRT,"Vaxart, Inc.",174.89M,0.88%,522758,4.16M
+644,ALDX,"Aldeyra Therapeutics, Inc.",174.63M,-3.00%,597002,-
+645,GTHX,"G1 Therapeutics, Inc.",174.09M,2.41%,392111,82.51M
+646,IMRX,Immuneering Corporation,171.45M,-0.94%,17944,-
+647,SYRS,"Syros Pharmaceuticals, Inc.",170.08M,0.77%,52741,8.80M
+648,GLYC,"GlycoMimetics, Inc.",168.71M,-,269598,-
+649,RLMD,"Relmada Therapeutics, Inc.",167.35M,3.16%,89470,-
+650,KPTI,Karyopharm Therapeutics Inc.,166.85M,0.34%,515151,146.03M
+651,AUGX,"Augmedix, Inc.",166.06M,-0.15%,407637,40.93M
+652,ATOS,"Atossa Therapeutics, Inc.",164.15M,-6.87%,1332500,-
+653,NKTR,Nektar Therapeutics,163.42M,-4.34%,1123413,90.12M
+654,INGN,"Inogen, Inc.",162.82M,2.44%,127436,315.66M
+655,CLPT,"ClearPoint Neuro, Inc.",160.93M,21.57%,543418,23.96M
+656,ACB,Aurora Cannabis Inc.,159.83M,2.74%,859402,200.73M
+657,DBVT,DBV Technologies S.A.,159.73M,-3.63%,35169,15.73M
+658,SGMT,Sagimet Biosciences Inc.,159.16M,-4.41%,869201,2.00M
+659,RANI,"Rani Therapeutics Holdings, Inc.",158.13M,6.82%,37501,-
+660,ALUR,Allurion Technologies Inc.,153.33M,3.02%,20138,109.44M
+661,SGMO,"Sangamo Therapeutics, Inc.",152.71M,-6.12%,2040304,201.42M
+662,OCEA,"Ocean Biomedical, Inc.",152.37M,7.27%,877077,-
+663,DSGN,"Design Therapeutics, Inc.",151.21M,-0.19%,65828,-
+664,IMAB,I-Mab,151.20M,1.09%,252336,-35.05M
+665,XTNT,"Xtant Medical Holdings, Inc.",150.93M,3.12%,18520,78.46M
+666,ACHV,"Achieve Life Sciences, Inc.",149.00M,1.26%,35751,-
+667,FONR,FONAR Corporation,148.49M,-1.83%,23080,102.42M
+668,ELMD,"Electromed, Inc.",148.01M,-0.41%,12479,51.69M
+669,CDXC,ChromaDex Corporation,146.85M,8.72%,391136,83.57M
+670,XFOR,"X4 Pharmaceuticals, Inc.",144.72M,-2.77%,1305034,-
+671,BDSX,"Biodesix, Inc.",144.44M,-2.00%,17350,49.09M
+672,PDSB,PDS Biotechnology Corporation,143.87M,1.62%,622671,-
+673,CTMX,"CytomX Therapeutics, Inc.",142.89M,-1.86%,405435,101.21M
+674,ZURA,Zura Bio Limited,140.49M,-1.10%,38102,-
+675,MDWD,MediWound Ltd.,140.32M,-4.21%,27587,24.97M
+676,VOR,Vor Biopharma Inc.,136.29M,-,196152,-
+677,HITI,High Tide Inc.,136.02M,-1.74%,84694,487.67M
+678,MOLN,Molecular Partners AG,133.92M,-10.25%,7928,9.46M
+679,TBRG,TruBridge Inc.,133.71M,-6.58%,95210,336.79M
+680,VINC,"Vincerx Pharma, Inc.",133.63M,4.95%,299609,-
+681,ARMP,"Armata Pharmaceuticals, Inc.",131.94M,-1.10%,6020,4.05M
+682,TELA,"TELA Bio, Inc.",131.50M,0.56%,33881,53.08M
+683,ADAG,Adagene Inc.,131.03M,0.34%,4902,22.67M
+684,TOI,"The Oncology Institute, Inc.",130.54M,2.82%,99513,309.88M
+685,COYA,"Coya Therapeutics, Inc.",129.79M,2.77%,26565,-
+686,NGM,"NGM Biopharmaceuticals, Inc.",128.53M,0.32%,159067,-
+687,CELU,Celularity Inc.,128.41M,1.32%,35435,14.79M
+688,STIM,"Neuronetics, Inc.",128.25M,0.70%,35056,71.35M
+689,ZTEK,Zentek Ltd.,128.04M,1.25%,12915,25.27K
+690,ZOM,Zomedica Corp.,127.59M,3.76%,2281886,24.01M
+691,YS,"YS Biopharma Co., Ltd.",127.33M,13.89%,202534,560.76M
+692,BCAB,"BioAtla, Inc.",126.31M,0.97%,74702,-
+693,CLSD,"Clearside Biomedical, Inc.",125.53M,3.96%,670693,8.23M
+694,SEER,"Seer, Inc.",123.39M,-1.30%,253651,16.66M
+695,GTH,Genetron Holdings Limited,123.02M,0.13%,7673,93.36M
+696,IMUX,"Immunic, Inc.",122.30M,1.84%,203206,-
+697,LIFW,"MSP Recovery, Inc.",122.08M,-3.18%,201727,8.60M
+698,OM,"Outset Medical, Inc.",121.97M,-1.85%,588950,130.38M
+699,GALT,Galectin Therapeutics Inc.,121.84M,1.52%,23254,-
+700,EBS,Emergent BioSolutions Inc.,121.63M,-2.58%,1087381,1.05B
+701,KNTE,Kinnate Biopharma Inc.,120.04M,-,262609,-
+702,YI,"111, Inc.",119.27M,5.64%,116081,2.06B
+703,MCRB,"Seres Therapeutics, Inc.",117.80M,-,2804717,126.33M
+704,ALLK,Allakos Inc.,116.34M,4.89%,384924,-
+705,TKNO,"Alpha Teknova, Inc.",116.26M,2.46%,10071,36.71M
+706,ORMP,Oramed Pharmaceuticals Inc.,115.88M,-3.15%,79330,1.34M
+707,SCTL,"Societal CDMO, Inc.",115.07M,-,119453,91.20M
+708,IOBT,"IO Biotech, Inc.",113.97M,1.14%,96092,-
+709,CVM,CEL-SCI Corporation,113.90M,-0.43%,127441,-
+710,BYSI,BeyondSpring Inc.,113.15M,-2.99%,56230,1.55M
+711,ETON,"Eton Pharmaceuticals, Inc.",112.90M,1.36%,32667,33.48M
+712,SHOT,Safety Shot Inc,112.72M,-4.32%,584306,4.40M
+713,VANI,"Vivani Medical, Inc.",112.71M,0.51%,180823,-
+714,VTGN,"VistaGen Therapeutics, Inc.",110.53M,4.40%,145826,1.04M
+715,CTXR,"Citius Pharmaceuticals, Inc.",110.46M,5.21%,272232,-
+716,ACRV,"Acrivon Therapeutics, Inc.",109.86M,2.40%,7908,-
+717,DMAC,DiaMedica Therapeutics Inc.,109.69M,1.56%,19659,-
+718,CYT,"Cyteir Therapeutics, Inc.",109.43M,1.50%,37959,-
+719,MYO,"Myomo, Inc.",108.54M,-5.26%,125625,19.24M
+720,SY,So-Young International Inc.,108.42M,0.95%,56708,197.06M
+721,VIGL,"Vigil Neuroscience, Inc.",106.91M,-2.68%,15058,-
+722,FORA,Forian Inc.,105.63M,9.97%,80756,23.02M
+723,CMRX,"Chimerix, Inc.",105.27M,-0.42%,218303,324.00K
+724,BWAY,BrainsWay Ltd.,104.67M,-1.28%,72370,31.79M
+725,PLX,"Protalix BioTherapeutics, Inc.",104.32M,2.45%,142276,63.63M
+726,PETS,"PetMed Express, Inc.",103.20M,-2.15%,390827,270.52M
+727,SHLT,SHL Telemedicine Ltd.,102.78M,-0.16%,5364,57.10M
+728,BRNS,Barinthus Biotherapeutics plc,99.59M,1.19%,4485,7.26M
+729,ANVS,"Annovis Bio, Inc.",98.82M,-1.93%,71249,-
+730,CRVS,"Corvus Pharmaceuticals, Inc.",98.57M,-,46218,-
+731,CARM,"Carisma Therapeutics, Inc.",98.47M,3.85%,96576,10.63M
+732,VAXX,"Vaxxinity, Inc.",98.00M,-4.29%,206165,-
+733,ANIX,"Anixa Biosciences, Inc.",97.67M,2.92%,87253,210.00K
+734,ASRT,"Assertio Holdings, Inc.",95.95M,13.37%,3341164,152.07M
+735,KRMD,"KORU Medical Systems, Inc.",95.91M,0.71%,12506,28.68M
+736,CRDL,Cardiol Therapeutics Inc.,95.07M,3.42%,140016,-
+737,LIFE,"aTyr Pharma, Inc.",94.57M,2.16%,160024,10.74M
+738,IFRX,InflaRx N.V.,94.19M,1.91%,54435,60.80K
+739,RNAC,"Cartesian Therapeutics, Inc.",93.95M,-0.85%,416949,26.00M
+740,ATHA,"Athira Pharma, Inc.",93.71M,5.95%,369859,-
+741,ELUT,Elutia Inc.,92.79M,6.21%,11639,24.75M
+742,VERU,Veru Inc.,92.37M,2.84%,443969,16.30M
+743,OTLK,"Outlook Therapeutics, Inc.",90.99M,-8.87%,2465510,-
+744,EQ,"Equillium, Inc.",88.85M,1.98%,48975,42.63M
+745,BLRX,BioLineRx Ltd.,88.30M,0.87%,73297,-
+746,SPRO,"Spero Therapeutics, Inc.",88.24M,1.20%,232118,77.70M
+747,ACRS,"Aclaris Therapeutics, Inc.",87.59M,2.46%,549624,31.25M
+748,PSNL,"Personalis, Inc.",87.37M,-1.73%,246505,73.48M
+749,RVPH,"Reviva Pharmaceuticals Holdings, Inc.",87.37M,-,148923,-
+750,PMVP,"PMV Pharmaceuticals, Inc.",87.20M,-0.61%,311533,-
+751,PRPH,"ProPhase Labs, Inc.",86.62M,6.46%,8529,62.71M
+752,ANTX,"AN2 Therapeutics, Inc.",86.25M,3.97%,198510,-
+753,MURA,Mural Oncology plc,85.70M,-1.06%,107343,-
+754,TRIB,Trinity Biotech plc,84.82M,-1.32%,2732,61.44M
+755,DCTH,"Delcath Systems, Inc.",84.73M,-0.13%,68574,2.17M
+756,BNR,Burning Rock Biotech Limited,84.34M,-1.19%,26755,76.83M
+757,BTAI,"BioXcel Therapeutics, Inc.",84.16M,2.35%,435454,1.24M
+758,ALVR,"AlloVir, Inc.",83.27M,-1.26%,86946,-
+759,NVNO,enVVeno Medical Corporation,82.57M,0.97%,71084,-
+760,INCR,InterCure Ltd.,81.12M,1.12%,8365,112.41M
+761,AFMD,Affimed N.V.,80.48M,-5.52%,117432,20.23M
+762,CUE,"Cue Biopharma, Inc.",79.87M,20.90%,468345,3.82M
+763,GNTA,Genenta Science S.p.A.,79.24M,3.64%,7006,-
+764,IMMX,"Immix Biopharma, Inc.",79.16M,0.97%,40363,-
+765,ONCY,Oncolytics Biotech Inc.,78.96M,-1.89%,118422,-
+766,MIST,Milestone Pharmaceuticals Inc.,78.93M,-0.40%,43241,4.50M
+767,DTIL,"Precision BioSciences, Inc.",78.83M,-1.83%,46197,52.29M
+768,MDXH,MDxHealth SA,78.62M,13.46%,66046,70.19M
+769,TIL,"Instil Bio, Inc.",78.37M,4.90%,24170,-
+770,HYPR,"Hyperfine, Inc.",78.04M,1.83%,17923,9.77M
+771,LTRN,Lantern Pharma Inc.,77.61M,-8.96%,349522,-
+772,ENLV,Enlivex Therapeutics Ltd.,77.56M,3.60%,73542,-
+773,RZLT,"Rezolute, Inc.",77.27M,-0.26%,122817,-
+774,VNRX,VolitionRx Limited,77.11M,2.04%,61092,651.04K
+775,CSBR,"Champions Oncology, Inc.",77.08M,-3.00%,15457,49.98M
+776,EGRX,"Eagle Pharmaceuticals, Inc.",76.97M,4.97%,46295,257.55M
+777,ASXC,"Asensus Surgical, Inc.",76.03M,4.84%,1214503,5.61M
+778,NUTX,"Nutex Health, Inc.",75.64M,3.45%,1303903,231.70M
+779,MGRM,"Monogram Orthopaedics, Inc.",75.03M,1.28%,8046,-
+780,PASG,"Passage Bio, Inc.",74.50M,1.12%,44293,-
+781,GANX,"Gain Therapeutics, Inc.",73.87M,-0.99%,46822,55.18K
+782,EYEN,"Eyenovia, Inc.",72.80M,3.33%,464651,1.20K
+783,HOOK,HOOKIPA Pharma Inc.,72.73M,0.68%,288387,20.55M
+784,ATRA,"Atara Biotherapeutics, Inc.",71.35M,-4.20%,791832,4.54M
+785,MLEC,Moolec Science SA,71.06M,-0.60%,9792,-
+786,CNTB,Connect Biopharma Holdings Limited,70.49M,-0.78%,6809,-
+787,ASMB,"Assembly Biosciences, Inc.",70.18M,-1.41%,7393,-
+788,ELYM,"Eliem Therapeutics, Inc.",70.03M,8.27%,14683,-
+789,MNOV,"MediciNova, Inc.",68.66M,-1.00%,20428,1.00M
+790,ALGS,"Aligos Therapeutics, Inc.",68.35M,0.20%,1064143,15.53M
+791,KZR,"Kezar Life Sciences, Inc.",67.71M,-2.15%,148239,7.00M
+792,IKNA,"Ikena Oncology, Inc.",67.08M,0.72%,277266,9.16M
+793,IXHL,Incannex Healthcare Limited,65.86M,-7.47%,83926,-
+794,ICU,SeaStar Medical Holding Corporation,65.80M,-6.49%,3682684,-
+795,KRON,"Kronos Bio, Inc.",65.61M,2.67%,125228,4.00M
+796,TPST,"Tempest Therapeutics, Inc.",65.06M,0.89%,265667,-
+797,LVTX,LAVA Therapeutics N.V.,64.93M,5.67%,198300,9.63M
+798,LPTX,"Leap Therapeutics, Inc.",64.68M,-4.00%,168160,-
+799,DERM,Journey Medical Corporation,64.41M,0.57%,35237,79.89M
+800,ENZ,"Enzo Biochem, Inc.",64.12M,-,33029,20.59M
+801,APLM,"Apollomics, Inc.",63.62M,-14.18%,118700,-
+802,ANEB,"Anebulo Pharmaceuticals, Inc.",63.54M,4.15%,951,-
+803,TSBX,Turnstone Biologics Corp.,63.51M,5.00%,47716,81.89M
+804,RLYB,Rallybio Corporation,63.49M,1.49%,62230,-
+805,PRE,Prenetics Global Limited,61.76M,-3.59%,182217,68.79M
+806,CDTX,"Cidara Therapeutics, Inc.",61.73M,-0.57%,620580,56.54M
+807,SSIC,Silver Spike Investment Corp.,61.22M,-0.45%,3335,7.76M
+808,PDEX,"Pro-Dex, Inc.",61.10M,1.85%,6790,48.24M
+809,BEAT,"HeartBeam, Inc.",61.08M,-0.17%,146488,-
+810,LUCD,Lucid Diagnostics Inc.,60.48M,-4.76%,61833,1.50M
+811,INTS,"Intensity Therapeutics, Inc.",60.46M,0.23%,31988,-
+812,GEG,"Great Elm Group, Inc.",60.10M,-,3893,11.05M
+813,SLS,"SELLAS Life Sciences Group, Inc.",60.01M,4.35%,862058,-
+814,NSPR,"InspireMD, Inc.",59.92M,-0.41%,5494,6.21M
+815,CGTX,"Cognition Therapeutics, Inc.",59.67M,-2.17%,156086,-
+816,NEUE,NeueHealth Inc,59.60M,-2.95%,19186,1.88B
+817,APYX,Apyx Medical Corporation,59.59M,4.07%,31295,50.30M
+818,CRIS,"Curis, Inc.",59.06M,5.29%,15457,10.02M
+819,XAIR,"Beyond Air, Inc.",58.74M,3.07%,51092,689.00K
+820,RBOT,Vicarious Surgical Inc.,58.61M,1.98%,400154,-
+821,RGC,Regencell Bioscience Holdings Limited,58.56M,-6.04%,31203,-
+822,CLGN,CollPlant Biotechnologies Ltd.,58.19M,-1.63%,8930,10.72M
+823,SCYX,"SCYNEXIS, Inc.",58.02M,-3.25%,206315,135.87M
+824,BNGO,"Bionano Genomics, Inc.",57.98M,1.42%,997300,36.12M
+825,MTNB,"Matinas BioPharma Holdings, Inc.",57.77M,-0.27%,418971,4.28M
+826,HCWB,HCW Biologics Inc.,57.21M,2.97%,3906,576.02K
+827,CLNN,Clene Inc.,57.17M,-3.15%,223761,718.00K
+828,AVRO,"AVROBIO, Inc.",57.16M,0.78%,99918,-
+829,SRTS,"Sensus Healthcare, Inc.",57.15M,6.48%,194022,24.94M
+830,ICCM,IceCure Medical Ltd,56.70M,-1.61%,37626,2.91M
+831,BGXX,Bright Green Corporation,56.03M,-8.99%,2964192,-
+832,THTX,Theratechnologies Inc.,55.95M,0.83%,10574,59.25M
+833,CTCX,Carmell Therapeutics Corporation,55.03M,1.02%,1982,25.65M
+834,MLSS,Milestone Scientific Inc.,54.17M,-2.39%,34062,9.81M
+835,INAB,"IN8bio, Inc.",54.11M,2.36%,91214,-
+836,CASI,"CASI Pharmaceuticals, Inc.",54.09M,-0.61%,33720,42.26M
+837,SABS,"SAB Biotherapeutics, Inc.",54.06M,2.22%,20879,4.09M
+838,MODD,"Modular Medical, Inc.",53.61M,15.03%,253063,-
+839,AMIX,"Autonomix Medical, Inc.",53.61M,2.15%,5829,-
+840,OCUP,"Ocuphire Pharma, Inc.",53.55M,-2.34%,163479,19.05M
+841,AONC,"American Oncology Network, Inc.",53.48M,-4.65%,10157,-
+842,RPHM,"Reneo Pharmaceuticals, Inc.",53.30M,-1.88%,187044,-
+843,ELTX,"Elicio Therapeutics, Inc.",52.64M,-5.84%,59071,-
+844,CRVO,CervoMed Inc.,52.43M,-3.64%,5423,1.53M
+845,CTSO,Cytosorbents Corporation,52.17M,-,17010,37.07M
+846,FIXX,"Homology Medicines, Inc.",52.17M,0.28%,25052,1.96M
+847,LEXX,Lexaria Bioscience Corp.,51.74M,3.35%,920321,276.01K
+848,QNCX,"Quince Therapeutics, Inc.",51.44M,-1.25%,25550,-
+849,ENTX,Entera Bio Ltd.,51.09M,-2.04%,33639,-
+850,ACHL,Achilles Therapeutics plc,50.16M,-2.44%,136442,-
+851,UNCY,"Unicycive Therapeutics, Inc.",49.70M,-1.40%,70078,-
+852,CKPT,"Checkpoint Therapeutics, Inc.",49.60M,0.50%,179567,171.00K
+853,NKGN,"NKGen Biotech, Inc.",49.41M,15.03%,746392,77.00K
+854,TLSA,Tiziana Life Sciences Ltd,49.15M,-0.99%,46655,-
+855,LNSR,"LENSAR, Inc.",49.00M,5.00%,992,42.16M
+856,OKYO,OKYO Pharma Limited,48.86M,2.07%,57184,-
+857,CARA,"Cara Therapeutics, Inc.",48.10M,-0.24%,310327,20.97M
+858,BOLT,"Bolt Biotherapeutics, Inc.",47.84M,-4.76%,243261,7.20M
+859,RGLS,Regulus Therapeutics Inc.,47.73M,13.14%,4894938,-
+860,AADI,"Aadi Bioscience, Inc.",47.58M,6.19%,178476,23.26M
+861,BCTX,BriaCell Therapeutics Corp.,47.47M,-,31753,-
+862,CYTH,"Cyclo Therapeutics, Inc.",47.32M,2.47%,26247,951.81K
+863,RNLX,Renalytix Plc,47.27M,-10.91%,632585,2.41M
+864,LFWD,ReWalk Robotics Ltd,46.90M,-9.72%,1128316,13.85M
+865,CADL,"Candel Therapeutics, Inc.",46.56M,-1.86%,11330,-
+866,BIMI,BIMI International Medical Inc.,46.49M,-16.12%,37062,5.85M
+867,CCEL,"Cryo-Cell International, Inc.",45.74M,7.61%,15776,31.34M
+868,ICAD,"iCAD, Inc.",45.59M,5.20%,462927,22.21M
+869,DARE,"Daré Bioscience, Inc.",45.35M,4.30%,102619,1.00M
+870,CLRB,"Cellectar Biosciences, Inc.",44.61M,-1.24%,226664,-
+871,DRIO,DarioHealth Corp.,44.46M,1.87%,39801,23.55M
+872,OWLT,"Owlet, Inc.",44.19M,0.41%,5580,54.01M
+873,FEMY,Femasys Inc.,44.17M,-5.24%,485435,1.09M
+874,MDAI,"Spectral AI, Inc.",44.16M,12.43%,4871626,38.14M
+875,EVGN,Evogene Ltd.,43.25M,-1.56%,130650,5.64M
+876,IPA,ImmunoPrecise Antibodies Ltd.,43.16M,1.22%,150743,16.52M
+877,ESLA,"Estrella Immunopharma, Inc.",42.95M,-9.17%,55065,-
+878,DYAI,"Dyadic International, Inc.",42.64M,5.41%,25389,2.96M
+879,NXTC,"NextCure, Inc.",42.55M,1.31%,27830,-
+880,IRIX,IRIDEX Corporation,41.92M,1.36%,4531,54.61M
+881,GMDA,Gamida Cell Ltd.,41.38M,1.96%,463542,673.00K
+882,RMTI,"Rockwell Medical, Inc.",41.03M,4.17%,48247,80.83M
+883,HLTH,Cue Health Inc.,40.82M,6.44%,368632,198.92M
+884,DXR,Daxor Corporation,40.73M,3.16%,32,-2.00M
+885,TARA,"Protara Therapeutics, Inc.",40.57M,2.30%,19923,-
+886,DHAI,"DIH Holdings US, Inc.",40.57M,-7.34%,284738,13.17M
+887,RPID,"Rapid Micro Biosystems, Inc.",40.48M,0.68%,14487,22.52M
+888,CUTR,"Cutera, Inc.",40.32M,2.97%,358467,230.18M
+889,NRXP,"NRx Pharmaceuticals, Inc.",40.28M,10.83%,1204422,-
+890,VTVT,vTv Therapeutics Inc.,40.19M,2.17%,9243,9.00K
+891,AGE,"AgeX Therapeutics, Inc.",39.97M,27.59%,1238825,94.00K
+892,PLUR,Pluri Inc.,39.82M,3.63%,39312,357.00K
+893,ICCC,ImmuCell Corporation,39.53M,1.27%,11504,16.29M
+894,ACXP,"Acurx Pharmaceuticals, Inc.",39.38M,0.70%,6261,-
+895,ELDN,"Eledon Pharmaceuticals, Inc.",39.20M,4.91%,21825,-
+896,OMIC,"Singular Genomics Systems, Inc.",38.91M,-1.55%,51491,2.60M
+897,MEDS,"TRxADE HEALTH, Inc.",38.85M,-19.07%,197679,9.09M
+898,PMN,"ProMIS Neurosciences, Inc.",38.71M,-3.60%,4474,-
+899,VIRX,"Viracta Therapeutics, Inc.",38.68M,0.52%,54107,-
+900,EFTR,"eFFECTOR Therapeutics, Inc.",38.10M,-4.93%,89912,675.00K
+901,AWH,Aspira Women's Health Inc.,37.83M,-1.64%,10452,9.18M
+902,MRKR,"Marker Therapeutics, Inc.",37.51M,0.55%,22831,9.06M
+903,ECOR,"electroCore, Inc.",37.28M,1.29%,2710,13.40M
+904,BIVI,BioVie Inc.,36.39M,8.14%,1506812,-
+905,RVP,"Retractable Technologies, Inc.",36.22M,0.83%,18992,41.99M
+906,CODX,"Co-Diagnostics, Inc.",35.93M,-0.43%,35320,4.66M
+907,FBIO,"Fortress Biotech, Inc.",35.44M,-3.38%,146287,80.97M
+908,SNCE,"Science 37 Holdings, Inc.",34.66M,-,49100,60.26M
+909,CLDI,"Calidi Biotherapeutics, Inc.",34.43M,-3.42%,28469,45.00K
+910,DRRX,DURECT Corporation,34.30M,1.74%,95710,9.19M
+911,POCI,"Precision Optics Corporation, Inc.",33.92M,3.11%,2939,19.22M
+912,ACST,Acasti Pharma Inc.,32.24M,-1.17%,16480,-
+913,INKT,"MiNK Therapeutics, Inc.",31.48M,1.97%,47831,-
+914,XGN,Exagen Inc.,30.85M,1.10%,23929,51.62M
+915,BIOR,"Biora Therapeutics, Inc.",30.75M,0.44%,178494,18.00K
+916,EUDA,EUDA Health Holdings Limited,30.54M,-0.81%,18020,-
+917,CERO,"CERo Therapeutics Holdings, Inc.",30.00M,-6.02%,306333,-
+918,HUGE,FSD Pharma Inc.,29.89M,-2.37%,170972,-
+919,NMTC,NeuroOne Medical Technologies Corporation,29.56M,-0.88%,37770,2.82M
+920,SLGL,Sol-Gel Technologies Ltd.,29.39M,-3.74%,13904,1.67M
+921,ORGS,Orgenesis Inc.,29.37M,1.74%,22890,27.75M
+922,CDIO,"Cardio Diagnostics Holdings, Inc.",29.12M,-0.72%,174497,12.71K
+923,MOVE,Movano Inc.,29.01M,-2.63%,43336,-
+924,VYNE,VYNE Therapeutics Inc.,28.90M,-3.33%,17276,424.00K
+925,RNXT,"RenovoRx, Inc.",28.44M,1.18%,15726,-
+926,PTN,"Palatin Technologies, Inc.",28.23M,-2.69%,130858,7.10M
+927,BFRG,"Bullfrog AI Holdings, Inc.",27.78M,-6.79%,392255,75.00K
+928,MEIP,"MEI Pharma, Inc.",27.65M,-1.69%,12330,72.65M
+929,ONMD,OneMedNet Corporation,27.46M,2.81%,89299,1.57M
+930,SRZN,"Surrozen, Inc.",27.31M,-1.45%,6041,12.50M
+931,STRM,"Streamline Health Solutions, Inc.",27.18M,8.70%,11650,23.98M
+932,APM,Aptorum Group Limited,26.94M,-11.54%,107107,1.20M
+933,ONCT,"Oncternal Therapeutics, Inc.",26.64M,0.33%,1969,785.00K
+934,TCRT,"Alaunos Therapeutics, Inc.",26.47M,0.30%,21053,15.00K
+935,COCH,"Envoy Medical, Inc.",26.39M,-18.82%,179132,380.00K
+936,PYPD,PolyPid Ltd.,26.30M,-2.13%,1573,-
+937,ATIP,"ATI Physical Therapy, Inc.",26.27M,-,3366,699.02M
+938,IINN,Inspira Technologies Oxy B.H.N. Ltd.,26.17M,-1.60%,83590,-
+939,QTI,"QT Imaging Holdings, Inc.",26.15M,-,97300,708.24K
+940,UBX,"Unity Biotechnology, Inc.",26.02M,-0.65%,73550,-
+941,EKSO,"Ekso Bionics Holdings, Inc.",25.96M,-0.41%,35622,18.28M
+942,LSTA,"Lisata Therapeutics, Inc.",25.75M,2.58%,10293,-
+943,CPIX,Cumberland Pharmaceuticals Inc.,25.70M,1.65%,355,39.32M
+944,ALRN,"Aileron Therapeutics, Inc.",25.65M,1.46%,21470,-
+945,OCX,OncoCyte Corporation,25.28M,0.50%,10889,-2.36M
+946,TXMD,"TherapeuticsMD, Inc.",25.22M,-0.63%,8418,1.95M
+947,CMAX,"CareMax, Inc.",24.49M,-9.02%,26679,763.53M
+948,LUMO,"Lumos Pharma, Inc.",24.48M,-0.93%,2853,2.05M
+949,NEPH,"Nephros, Inc.",24.46M,-,5031,13.54M
+950,FBRX,"Forte Biosciences, Inc.",24.34M,2.68%,34090,-
+951,ABIO,"ARCA biopharma, Inc.",24.07M,-,7406,-
+952,SNSE,"Sensei Biotherapeutics, Inc.",23.93M,2.79%,96418,-
+953,NRBO,"NeuroBo Pharmaceuticals, Inc.",23.89M,-7.72%,277857,-
+954,GDTC,CytoMed Therapeutics Limited,23.87M,-4.59%,3282,573.59K
+955,APTO,Aptose Biosciences Inc.,23.72M,-3.33%,57167,-
+956,AKLI,"Akili, Inc.",23.69M,-1.33%,165369,1.68M
+957,MRAI,"Marpai, Inc.",23.21M,14.16%,620893,36.08M
+958,DMTK,"DermTech, Inc.",23.20M,7.46%,252804,15.30M
+959,APRE,"Aprea Therapeutics, Inc.",23.02M,-6.61%,23914,569.16K
+960,QLI,Qilian International Holding Group Limited,22.84M,10.61%,422479,46.47M
+961,TTOO,"T2 Biosystems, Inc.",22.70M,1.73%,76029,11.00M
+962,ITRM,Iterum Therapeutics plc,22.44M,-5.39%,103297,-
+963,BIAF,"bioAffinity Technologies, Inc.",22.38M,-6.22%,258393,321.49K
+964,AXDX,"Accelerate Diagnostics, Inc.",22.37M,1.43%,24106,12.00M
+965,MAIA,"MAIA Biotechnology, Inc.",22.25M,2.29%,41491,-
+966,MYNZ,Mainz Biomed B.V.,21.78M,-4.67%,27626,-
+967,GLTO,"Galecto, Inc.",21.58M,3.93%,159545,-
+968,NRSN,NeuroSense Therapeutics Ltd.,21.46M,7.01%,135921,-
+969,LPCN,Lipocine Inc.,21.05M,19.95%,91865,-2.85M
+970,AIH,Aesthetic Medical International Holdings Group Limited,20.45M,-14.47%,130064,89.89M
+971,KALA,"Kala Pharmaceuticals, Inc.",20.39M,0.26%,5351,-
+972,LABP,"Landos Biopharma, Inc.",20.35M,2.30%,3580,-
+973,NCNA,NuCana plc,20.30M,33.96%,57951076,-
+974,PPBT,Purple Biotech Ltd.,20.20M,-0.33%,40173,-
+975,CCLD,"CareCloud, Inc.",20.16M,2.36%,32247,121.18M
+976,NERV,"Minerva Neurosciences, Inc.",20.00M,2.89%,70861,-
+977,NTRB,Nutriband Inc.,19.88M,-,13,2.09M
+978,CHRO,Chromocell Therapeutics Corp,19.71M,2.32%,11922,-
+979,CNTG,Centogene N.V.,19.51M,-4.29%,205,55.72M
+980,ONTX,"Onconova Therapeutics, Inc.",19.43M,4.53%,49059,226.00K
+981,GYRE,"Gyre Therapeutics, Inc.",19.42M,4.14%,15936,-
+982,TNXP,Tonix Pharmaceuticals Holding Corp.,19.34M,4.76%,636696,3.99M
+983,MBRX,"Moleculin Biotech, Inc.",19.04M,1.32%,21451,-
+984,MHUA,"Meihua International Medical Technologies Co., Ltd.",18.81M,-0.24%,61457,96.70M
+985,IMRN,Immuron Limited,18.71M,-4.68%,124804,2.43M
+986,CNTX,Context Therapeutics Inc.,18.68M,-0.43%,3018,-
+987,TFFP,"TFF Pharmaceuticals, Inc.",18.47M,4.35%,1103,932.32K
+988,XLO,"Xilio Therapeutics, Inc.",18.46M,2.76%,91396,-
+989,MBOT,Microbot Medical Inc.,18.29M,-4.76%,109172,-
+990,PAVM,PAVmed Inc.,18.23M,-10.40%,20656,1.52M
+991,SSKN,"STRATA Skin Sciences, Inc.",18.23M,-,4333,35.27M
+992,NRXS,"NeurAxis, Inc.",17.93M,7.67%,5211,2.54M
+993,CCM,Concord Medical Services Holdings Limited,17.83M,5.78%,7468,84.58M
+994,AYTU,"Aytu BioPharma, Inc.",17.54M,1.61%,9480,98.50M
+995,INDP,"Indaptus Therapeutics, Inc.",17.39M,-2.42%,19046,-
+996,AIM,AIM ImmunoTech Inc.,17.34M,2.90%,103604,193.00K
+997,PMD,Psychemedics Corporation,17.29M,-,9007,22.80M
+998,SYBX,"Synlogic, Inc.",17.28M,-1.06%,8444,708.00K
+999,TCON,"TRACON Pharmaceuticals, Inc.",17.24M,36.41%,16208383,12.05M
+1000,BMRA,"Biomerica, Inc.",17.16M,1.96%,23156,5.50M
+1001,PETV,"PetVivo Holdings, Inc.",17.11M,-2.00%,8804,1.05M
+1002,PHGE,BiomX Inc.,17.01M,2.70%,636778,-
+1003,PMCB,"PharmaCyte Biotech, Inc.",16.97M,1.02%,9554,-
+1004,SNTI,"Senti Biosciences, Inc.",16.97M,0.03%,25071,2.62M
+1005,PIRS,"Pieris Pharmaceuticals, Inc.",16.79M,-2.13%,213681,47.36M
+1006,AMS,American Shared Hospital Services,16.44M,2.11%,10946,20.66M
+1007,NXGL,"NEXGEL, Inc.",16.42M,1.75%,60349,3.53M
+1008,TBIO,"Telesis Bio, Inc.",16.26M,-,41767,30.00M
+1009,ETAO,"ETAO International Co., Ltd.",16.18M,-9.96%,157419,58.06M
+1010,MIRA,"MIRA Pharmaceuticals, Inc.",16.11M,-19.42%,566526,-
+1011,RDHL,RedHill Biopharma Ltd.,16.11M,-0.20%,346307,35.75M
+1012,ACOR,"Acorda Therapeutics, Inc.",15.72M,2.99%,519,111.12M
+1013,SEEL,"Seelos Therapeutics, Inc.",15.46M,-4.42%,177841,2.20M
+1014,MTEM,"Molecular Templates, Inc.",15.40M,-1.06%,9176,52.90M
+1015,BCLI,Brainstorm Cell Therapeutics Inc.,15.09M,9.96%,645852,-
+1016,TLIS,Talis Biomedical Corporation,15.02M,6.71%,7827,2.20M
+1017,COCP,"Cocrystal Pharma, Inc.",14.96M,4.11%,12779,-
+1018,KPRX,"Kiora Pharmaceuticals, Inc.",14.61M,2.25%,134687,-
+1019,TLPH,Talphera Inc.,14.58M,6.42%,74382,651.00K
+1020,EVAX,Evaxion Biotech A/S,14.53M,0.66%,11913,-
+1021,COEP,"Coeptis Therapeutics, Inc.",14.50M,-5.88%,140102,-
+1022,ATHE,Alterity Therapeutics Limited,14.49M,9.70%,56243,-
+1023,EDSA,"Edesa Biotech, Inc.",14.43M,-3.15%,4478,-
+1024,XRTX,XORTX Therapeutics Inc.,14.42M,5.96%,73513,-
+1025,VBIV,VBI Vaccines Inc.,14.35M,2.47%,28642,8.12M
+1026,STRR,"Star Equity Holdings, Inc.",14.24M,2.28%,7983,77.17M
+1027,ELAB,"Elevai Labs, Inc.",13.73M,-0.78%,57573,1.03M
+1028,IKT,"Inhibikase Therapeutics, Inc.",13.61M,1.32%,24456,324.07K
+1029,CANF,Can-Fite BioPharma Ltd.,13.49M,1.87%,1865,793.00K
+1030,NNVC,"NanoViricides, Inc.",13.31M,1.77%,20839,-
+1031,COSM,Cosmos Health Inc.,13.22M,-1.27%,32697,49.59M
+1032,ERNA,Eterna Therapeutics Inc.,13.20M,-4.24%,5055,51.00K
+1033,ICCT,iCoreConnect Inc.,13.07M,-1.04%,22953,7.75M
+1034,BNTC,Benitec Biopharma Inc.,12.91M,2.51%,4862,61.00K
+1035,BTCY,"Biotricity, Inc.",12.53M,-5.22%,20932,11.63M
+1036,DOMH,Dominari Holdings Inc.,12.46M,0.76%,5949,1.03M
+1037,ADXN,Addex Therapeutics Ltd,12.40M,-6.46%,11889,2.24M
+1038,MNPR,Monopar Therapeutics Inc.,12.28M,-8.97%,178293,-
+1039,AKTX,"Akari Therapeutics, Plc",12.10M,-4.81%,13199,-
+1040,LGVN,Longeveron Inc.,12.06M,7.56%,63434,709.00K
+1041,NDRA,ENDRA Life Sciences Inc.,12.03M,-0.91%,143583,-
+1042,GRTX,"Galera Therapeutics, Inc.",11.79M,-1.25%,170833,-
+1043,POAI,Predictive Oncology Inc.,11.78M,-,23582,1.81M
+1044,NLSP,NLS Pharmaceutics AG,11.78M,0.03%,95329,-
+1045,CMMB,Chemomab Therapeutics Ltd.,11.72M,-5.64%,120140,-
+1046,NTBL,Notable Labs Inc.,11.70M,3.81%,24896,-
+1047,CHEK,Check-Cap Ltd.,11.70M,2.55%,5056,-
+1048,ASLN,ASLAN Pharmaceuticals Limited,11.42M,9.56%,4173611,12.00M
+1049,SYRA,Syra Health Corp.,11.30M,0.56%,59451,5.71M
+1050,GENE,Genetic Technologies Limited,11.16M,4.21%,9218,5.78M
+1051,PRTG,Portage Biotech Inc.,11.08M,11.70%,20746,-
+1052,BTTX,"Better Therapeutics, Inc.",10.95M,0.05%,921451,-
+1053,ABVC,"ABVC BioPharma, Inc.",10.78M,-2.78%,62426,739.26K
+1054,OSA,"ProSomnus, Inc.",10.65M,2.82%,1829,25.61M
+1055,TRVN,"Trevena, Inc.",10.30M,-0.70%,25791,3.21M
+1056,ONVO,"Organovo Holdings, Inc.",10.14M,0.50%,6303,242.00K
+1057,GHSI,"Guardion Health Sciences, Inc.",10.10M,0.89%,3380,12.04M
+1058,INBS,Intelligent Bio Solutions Inc.,10.08M,-3.01%,174502,2.88M
+1059,AEZS,Aeterna Zentaris Inc.,9.91M,2.06%,16659,6.86M
+1060,NVOS,"Novo Integrated Sciences, Inc.",9.83M,17.35%,894697,13.04M
+1061,BCDA,"BioCardia, Inc.",9.83M,6.11%,663942,570.00K
+1062,MBIO,"Mustang Bio, Inc.",9.77M,-9.43%,247166,-
+1063,EIGR,"Eiger BioPharmaceuticals, Inc.",9.62M,1.69%,2644,14.67M
+1064,VCNX,"Vaccinex, Inc.",9.50M,0.86%,2145,795.00K
+1065,HEPA,"Hepion Pharmaceuticals, Inc.",9.46M,0.92%,46172,-
+1066,CVKD,"Cadrenal Therapeutics, Inc.",9.28M,3.63%,52077,-
+1067,APDN,"Applied DNA Sciences, Inc.",9.00M,1.79%,22558,9.00M
+1068,PRPO,"Precipio, Inc.",8.99M,0.17%,3018,13.26M
+1069,FWBI,"First Wave BioPharma, Inc.",8.88M,17.08%,69432,-
+1070,AIMD,"Ainos, Inc.",8.75M,-8.84%,166914,-
+1071,IMNN,"Imunon, Inc.",8.74M,-4.62%,28862,125.00K
+1072,FLGC,Flora Growth Corp.,8.66M,-0.47%,15080,70.37M
+1073,BRTX,"BioRestorative Therapies, Inc.",8.66M,-1.52%,25169,130.20K
+1074,BNOX,Bionomics Limited,8.65M,-,32641,15.21K
+1075,CELZ,"Creative Medical Technology Holdings, Inc.",8.64M,-0.32%,41413,24.60K
+1076,CYCN,"Cyclerion Therapeutics, Inc.",8.13M,-5.94%,570,-
+1077,FRES,Fresh2 Group Ltd,8.08M,2.49%,41571,2.35M
+1078,TOVX,"Theriva Biologics, Inc.",7.84M,0.09%,12179,-
+1079,ALZN,"Alzamend Neuro, Inc.",7.81M,-9.38%,100677,-
+1080,NURO,"NeuroMetrix, Inc.",7.77M,-0.77%,6400,5.90M
+1081,PSTV,"Plus Therapeutics, Inc.",7.71M,1.85%,5596,4.91M
+1082,HCTI,"Healthcare Triangle, Inc.",7.67M,4.49%,19959,37.44M
+1083,NEXI,"NexImmune, Inc.",7.66M,4.93%,35873,-
+1084,HSCS,"Heart Test Laboratories, Inc.",7.62M,0.60%,1219045,5.85K
+1085,GCTK,"GlucoTrack, Inc.",7.57M,2.17%,40758,-
+1086,KTTA,Pasithea Therapeutics Corp.,7.53M,3.93%,2350,240.71K
+1087,SNGX,"Soligenix, Inc.",7.47M,0.13%,46366,960.62K
+1088,HPCO,"Hempacco Co., Inc.",7.23M,13.04%,265364,2.53M
+1089,SISI,"Shineco, Inc.",7.18M,-5.36%,154495,3.43M
+1090,GTBP,"GT Biopharma, Inc.",7.08M,-10.91%,21170,-
+1091,DRUG,Bright Minds Biosciences Inc.,7.01M,-7.64%,36611,-
+1092,TENX,"Tenax Therapeutics, Inc.",6.89M,-2.60%,44831,-
+1093,AZTR,"Azitra, Inc.",6.84M,-1.60%,139394,626.50K
+1094,SHPH,"Shuttle Pharmaceuticals Holdings, Inc.",6.80M,3.04%,5702,-
+1095,BCEL,"Atreca, Inc.",6.69M,16.00%,1012899,-
+1096,BFRI,Biofrontera Inc.,6.67M,12.98%,142816,33.62M
+1097,MYMD,"MyMD Pharmaceuticals, Inc.",6.59M,1.90%,4690,-
+1098,ATXI,"Avenue Therapeutics, Inc.",6.52M,-2.80%,1551038,-
+1099,KA,"Kineta, Inc.",6.51M,-5.35%,84007,3.31M
+1100,PULM,"Pulmatrix, Inc.",6.50M,8.99%,2425,6.80M
+1101,ENVB,"Enveric Biosciences, Inc.",6.48M,-4.17%,219290,-
+1102,OGEN,"Oragenics, Inc.",6.41M,-1.05%,27830,37.65K
+1103,VIRI,"Virios Therapeutics, Inc.",6.36M,1.85%,219921,-
+1104,ADTX,"Aditxt, Inc.",6.31M,0.11%,65688,749.48K
+1105,GNPX,"Genprex, Inc.",6.26M,0.48%,39333,-
+1106,XBIO,"Xenetic Biosciences, Inc.",6.16M,2.60%,5005,2.35M
+1107,UPC,Universe Pharmaceuticals INC,6.16M,2.38%,3671,32.31M
+1108,VVOS,"Vivos Therapeutics, Inc.",6.15M,-3.45%,36046,14.50M
+1109,TTNP,"Titan Pharmaceuticals, Inc.",6.02M,1.15%,556,306.00K
+1110,CING,Cingulate Inc.,5.95M,-2.44%,55212,-
+1111,XCUR,"Exicure, Inc.",5.88M,-7.22%,51901,23.79M
+1112,CLVR,Clever Leaves Holdings Inc.,5.85M,3.76%,3489,17.39M
+1113,EVOK,"Evoke Pharma, Inc.",5.51M,-0.02%,104757,4.30M
+1114,SONN,"Sonnet BioTherapeutics Holdings, Inc.",5.51M,-1.11%,35740,129.18K
+1115,AFIB,"Acutus Medical, Inc.",5.48M,4.57%,471350,19.66M
+1116,KZIA,Kazia Therapeutics Limited,5.45M,9.81%,621769,15.86K
+1117,HOTH,"Hoth Therapeutics, Inc.",5.43M,-1.20%,53800,-
+1118,SSY,"SunLink Health Systems, Inc.",5.39M,-1.17%,113,39.59M
+1119,ZCMD,Zhongchao Inc.,5.31M,-,206843,17.23M
+1120,LIXT,"Lixte Biotechnology Holdings, Inc.",5.31M,-0.82%,1978,-
+1121,HSDT,"Helius Medical Technologies, Inc.",5.25M,-1.69%,16382,792.00K
+1122,XTLB,XTL Biopharmaceuticals Ltd.,5.23M,-5.27%,6556,-
+1123,MDGS,Medigus Ltd.,5.04M,-1.51%,622,83.45M
+1124,OPGN,"OpGen, Inc.",4.96M,3.01%,80189,3.07M
+1125,ARTL,"Artelo Biosciences, Inc.",4.86M,-2.32%,8551,-
+1126,CJJD,"China Jo-Jo Drugstores, Inc.",4.83M,4.66%,21583,148.81M
+1127,LFLY,"Leafly Holdings, Inc.",4.81M,3.17%,7684,44.62M
+1128,LUCY,"Innovative Eyewear, Inc.",4.77M,0.22%,13434,603.79K
+1129,VERO,Venus Concept Inc.,4.77M,3.99%,8848,82.51M
+1130,BPTS,Biophytis S.A.,4.76M,-1.84%,19870,-
+1131,LIPO,Lipella Pharmaceuticals Inc.,4.76M,5.77%,47171,449.62K
+1132,VRPX,"Virpax Pharmaceuticals, Inc.",4.71M,-12.41%,17488,-
+1133,CMND,Clearmind Medicine Inc.,4.66M,-6.12%,278534,-
+1134,SILO,"Silo Pharma, Inc.",4.62M,4.30%,72124,72.10K
+1135,STSS,"Sharps Technology, Inc.",4.60M,2.34%,11774,-
+1136,BSGM,"BioSig Technologies, Inc.",4.57M,5.55%,38033,141.00K
+1137,PALI,"Palisade Bio, Inc.",4.54M,1.60%,61679,250.00K
+1138,IMCC,IM Cannabis Corp.,4.52M,0.13%,26842,58.53M
+1139,GOVX,"GeoVax Labs, Inc.",4.50M,-1.45%,32544,-
+1140,PHIO,Phio Pharmaceuticals Corp.,4.48M,2.65%,360746,-
+1141,PTIX,"Protagenic Therapeutics, Inc.",4.48M,10.19%,9571,-
+1142,AEMD,"Aethlon Medical, Inc.",4.43M,-0.59%,3384,574.25K
+1143,RHE,"Regional Health Properties, Inc.",4.43M,-2.13%,412,22.80M
+1144,OTRK,"Ontrak, Inc.",4.41M,9.36%,303192,11.71M
+1145,AVTX,"Avalo Therapeutics, Inc.",4.37M,1.83%,31401,2.25M
+1146,TCBP,TC Biopharm (Holdings) Plc,4.37M,-3.89%,1367693,3.61M
+1147,FNCH,"Finch Therapeutics Group, Inc.",4.32M,-5.62%,21775,115.00K
+1148,AVGR,"Avinger, Inc.",4.20M,-3.16%,24060,7.75M
+1149,KTRA,"Kintara Therapeutics, Inc.",4.20M,43.78%,130062398,-
+1150,ONCO,Onconetix Inc,4.06M,1.77%,50163,-
+1151,IBIO,"iBio, Inc.",4.04M,-,38232,50.00K
+1152,CPHI,"China Pharma Holdings, Inc.",4.02M,-2.18%,344625,7.78M
+1153,RSLS,ReShape Lifesciences Inc.,3.90M,4.99%,235275,9.81M
+1154,SCPX,Scorpius Holdings Inc,3.90M,-0.06%,433353,2.23M
+1155,PCSA,"Processa Pharmaceuticals, Inc.",3.88M,0.44%,26684,-
+1156,BPTH,"Bio-Path Holdings, Inc.",3.81M,-8.02%,45168,-
+1157,ISPC,iSpecimen Inc.,3.72M,15.07%,181575,10.31M
+1158,MGRX,"Mangoceuticals, Inc.",3.70M,-12.23%,315520,496.06K
+1159,ZVSA,"ZyVersa Therapeutics, Inc.",3.66M,0.10%,286649,-
+1160,VTAK,"Catheter Precision, Inc.",3.65M,-6.96%,18421,314.00K
+1161,CNSP,"CNS Pharmaceuticals, Inc.",3.65M,-12.56%,116361,-
+1162,PRFX,PainReform Ltd.,3.59M,2.00%,4469,-
+1163,TNON,"Tenon Medical, Inc.",3.58M,-17.93%,11467799,2.40M
+1164,NBSE,"NeuBase Therapeutics, Inc.",3.54M,-,53478,-
+1165,SNPX,"Synaptogenix, Inc.",3.52M,3.39%,127000,-
+1166,JAGX,"Jaguar Health, Inc.",3.37M,-0.73%,12908712,10.72M
+1167,WINT,"Windtree Therapeutics, Inc.",3.36M,-0.64%,23135,-
+1168,BDRX,Biodexa Pharmaceuticals Plc,3.33M,-,62070,377.22K
+1169,PTPI,"Petros Pharmaceuticals, Inc.",3.31M,-2.89%,396785,6.98M
+1170,CYCC,"Cyclacel Pharmaceuticals, Inc.",3.27M,4.60%,14676,389.00K
+1171,SPRC,SciSparc Ltd.,3.19M,-0.34%,205784,3.32M
+1172,ADIL,"Adial Pharmaceuticals, Inc.",3.16M,-6.84%,484383,-
+1173,PXMD,"PaxMedica, Inc.",3.05M,-14.88%,5765588,-
+1174,NXL,"Nexalin Technology, Inc.",3.03M,8.17%,63199,128.64K
+1175,LSDI,Lucy Scientific Discovery Inc.,3.02M,-3.51%,26547,16.73K
+1176,CYTO,Altamira Therapeutics Ltd.,2.95M,0.96%,18127,-902.13K
+1177,SBFM,"Sunshine Biopharma, Inc.",2.89M,-4.14%,5823983,20.35M
+1178,SXTP,"60 Degrees Pharmaceuticals, Inc.",2.88M,1.85%,151923,-209.26K
+1179,FOXO,FOXO Technologies Inc.,2.88M,-0.62%,61088,453.00K
+1180,IONM,Assure Holdings Corp.,2.82M,9.79%,1989734,3.57M
+1181,ATNF,180 Life Sciences Corp.,2.73M,-7.96%,133855,-
+1182,NUWE,"Nuwellis, Inc.",2.67M,-4.47%,185761,8.86M
+1183,INVO,"INVO Bioscience, Inc.",2.64M,-1.39%,18034,1.92M
+1184,BIOL,"BIOLASE, Inc.",2.53M,4.92%,1392243,49.73M
+1185,SLRX,"Salarius Pharmaceuticals, Inc.",2.52M,-2.45%,2410,-
+1186,WORX,SCWorx Corp.,2.48M,-15.61%,227679,3.92M
+1187,ACON,"Aclarion, Inc.",2.45M,2.33%,514461,84.13K
+1188,ALLR,"Allarity Therapeutics, Inc.",2.40M,-5.06%,159497,-
+1189,THMO,"ThermoGenesis Holdings, Inc.",2.36M,0.71%,18945,9.72M
+1190,ENSC,"Ensysce Biosciences, Inc.",2.34M,0.95%,53375,-
+1191,SCNI,Scinai Immunotherapeutics Ltd.,2.27M,-2.09%,12977,-
+1192,APVO,Aptevo Therapeutics Inc.,2.25M,-,12330,-
+1193,DYNT,Dynatronics Corporation,2.22M,-5.21%,646,35.18M
+1194,YCBD,"cbdMD, Inc.",2.20M,-2.99%,1601,23.45M
+1195,SNOA,"Sonoma Pharmaceuticals, Inc.",2.18M,-,269606,12.31M
+1196,AGRX,"Agile Therapeutics, Inc.",2.16M,0.95%,12683881,19.97M
+1197,QNRX,"Quoin Pharmaceuticals, Ltd.",2.14M,-3.36%,286922,-
+1198,BBLG,Bone Biologics Corporation,2.12M,6.36%,105452,-
+1199,QLGN,"Qualigen Therapeutics, Inc.",2.07M,-2.01%,29863,4.62M
+1200,INM,InMed Pharmaceuticals Inc.,2.06M,-0.58%,57752,5.49M
+1201,VRAX,Virax Biolabs Group Limited,2.05M,0.97%,7416,79.30K
+1202,TIVC,"Tivic Health Systems, Inc.",1.96M,-,3860,1.23M
+1203,AMPE,"Ampio Pharmaceuticals, Inc.",1.95M,-0.76%,15824,-
+1204,NAOV,"NanoVibronix, Inc.",1.87M,-4.35%,27387,1.00M
+1205,BACK,"IMAC Holdings, Inc.",1.65M,-2.14%,9774,8.47M
+1206,GLMD,Galmed Pharmaceuticals Ltd.,1.52M,0.90%,19425,-
+1207,DRMA,"Dermata Therapeutics, Inc.",1.47M,-6.53%,35599,-
+1208,BJDX,"Bluejay Diagnostics, Inc.",1.45M,-6.12%,56689,-
+1209,AKAN,Akanda Corp.,1.43M,-4.00%,204618,3.94M
+1210,REVB,"Revelation Biosciences, Inc.",1.24M,-11.35%,235500,-
+1211,THAR,"Tharimmune, Inc.",1.18M,-1.18%,66041,-
+1212,SXTC,"China SXT Pharmaceuticals, Inc.",1.11M,-1.04%,52849,33.62K
+1213,SINT,"Sintx Technologies, Inc.",1.10M,-,242115,2.49M
+1214,MOTS,"Motus GI Holdings, Inc.",1.00M,-1.97%,116126,364.00K
+1215,NBY,"NovaBay Pharmaceuticals, Inc.",912.80K,3.20%,852408,14.64M
+1216,GRI,"GRI Bio, Inc.",800.47K,-2.96%,75673,-
+1217,RNAZ,"TransCode Therapeutics, Inc.",628.54K,4.37%,129146,-
