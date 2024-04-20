@@ -3,7 +3,7 @@
 
 # Zaman Serileri ile Feature Engineering
 
-Bu proje, Milli Teknoloji Akademisi Yapay Zeka Uzmanlık Programı kapsamında Tübitak'ın vermiş olduğu Veri Yoğun Uygulamalar Modül Projesi kapsamında tamamlanmıştır. Farklı sektörlerden elde edilen zaman serileri üzerinde yapılan feature engineering işlemlerini içermektedir.  
+Bu proje, TÜBİTAK'tan İsmail Güzel hocamın yönlendirdiği Veri Yoğun Uygulamalar Modül Projesi içinde Milli Teknoloji Akademisi Yapay Zeka Uzmanlık Programı kapsamında tamamlanmıştır. Proje, farklı sektörlerden elde edilen zaman serileri üzerinde gerçekleştirilen feature engineering işlemlerini içermektedir. 
 Aşağıda proje adımları ve kullanılan teknikler hakkında detaylı bilgiler bulunmaktadır.
 
 ## Proje Adımları
